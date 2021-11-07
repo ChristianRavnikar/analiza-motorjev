@@ -1,0 +1,310 @@
+[
+    {
+        "znamka": "Ducati Diavel 1260",
+        "leto": "2019",
+        "kilometri": "1400 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "16.990 €"
+    },
+    {
+        "znamka": "BMW S1000XR GARANCIJA ENO LETO S 1000 XR",
+        "leto": "2015",
+        "kilometri": "67000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.650 €"
+    },
+    {
+        "znamka": "Kawasaki NINJA 650 ABS",
+        "leto": "2017",
+        "kilometri": "10200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.300 €"
+    },
+    {
+        "znamka": "Honda NC750XA ODLIČNA",
+        "leto": "2020",
+        "kilometri": "4640 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.890 €"
+    },
+    {
+        "znamka": "BMW S 1000 XR ESA ZNIŽAN",
+        "leto": "2016",
+        "kilometri": "79240 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.780 €"
+    },
+    {
+        "znamka": "BMW R 1250 RT - vsa oprema - SLO",
+        "leto": "2019",
+        "kilometri": "15809 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "19.690 €"
+    },
+    {
+        "znamka": "Honda NC700SA ABS A2kategorija  SLO HITRI KREDIT",
+        "leto": "2013",
+        "kilometri": "38000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.700 €"
+    },
+    {
+        "znamka": "Honda CBR650FA NOVE GUME ODLIČNA HITRI KREDIT",
+        "leto": "2015",
+        "kilometri": "38000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.590 €"
+    },
+    {
+        "znamka": "Kawasaki Kxf450",
+        "leto": "2015",
+        "kilometri": "21000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.000 €"
+    },
+    {
+        "znamka": "Suzuki GSX-S 1000ABS TC 1.LAST. NOVE GUME HITRI KREDIT",
+        "leto": "2015",
+        "kilometri": "43500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.890 €"
+    },
+    {
+        "znamka": "Yamaha MT 07 ABS GARANCIJA  ODLIČNA HITRI KREDIT",
+        "leto": "2020",
+        "kilometri": "16000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "6.100 €"
+    },
+    {
+        "znamka": "Yamaha Scr 950",
+        "leto": "2019",
+        "kilometri": "3900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.550 €"
+    },
+    {
+        "znamka": "Yamaha XV 535.HITRI KREDIT",
+        "leto": "2002",
+        "kilometri": "50100 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.150 €"
+    },
+    {
+        "znamka": "Husqvarna Fc350",
+        "leto": "2019",
+        "kilometri": "87 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "BMW BMW R 1200 GS",
+        "leto": "2017",
+        "kilometri": "44000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "16.200 €"
+    },
+    {
+        "znamka": "Sherco SE 300 F -AKRAPOVIC- FACTORY-",
+        "leto": "2015",
+        "kilometri": "180 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.690 €"
+    },
+    {
+        "znamka": "KTM 450sxf",
+        "leto": "2019",
+        "kilometri": "98 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Husqvarna CR50",
+        "leto": "2016",
+        "kilometri": "30 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "1.700 €"
+    },
+    {
+        "znamka": "Yamaha 450- NOVE GUME + VERIŽNI  SET-MOZNE MENJAVE ",
+        "leto": "2006",
+        "kilometri": "22 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.990 €"
+    },
+    {
+        "znamka": "Honda VFR VTEC 800",
+        "leto": "2006",
+        "kilometri": "65000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Suzuki V strom",
+        "leto": "2004",
+        "kilometri": "55000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.900 €"
+    },
+    {
+        "znamka": "BMW s 1000 r",
+        "leto": "2014",
+        "kilometri": "35500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.990 €"
+    },
+    {
+        "znamka": "Yamaha R6",
+        "leto": "2006",
+        "kilometri": "54550 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.999 €"
+    },
+    {
+        "znamka": "Yamaha FZ-6 ODLICNO OHRANJENA",
+        "leto": "2005",
+        "kilometri": "64000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.990 €"
+    },
+    {
+        "znamka": "Yamaha YZF R1 ",
+        "leto": "2008",
+        "kilometri": "30000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.800 €"
+    },
+    {
+        "znamka": "Honda CBF 600S ABS MIVV ",
+        "leto": "2009",
+        "kilometri": "43000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.450 €"
+    },
+    {
+        "znamka": "Kawasaki ER-6F GPR KOT NOV",
+        "leto": "2006",
+        "kilometri": "42000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.600 €"
+    },
+    {
+        "znamka": "Yamaha FZ-8 AKRAPOVIC KOT NOVA",
+        "leto": "2012",
+        "kilometri": "53000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.790 €"
+    },
+    {
+        "znamka": "Yamaha MT-09 TRACER ABS TCS 1 LASTNIK SLO",
+        "leto": "2015",
+        "kilometri": "37000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.530 €"
+    },
+    {
+        "znamka": "Ducati 939 S SUPER SPORT-SLO.UGODNO",
+        "leto": "2017",
+        "kilometri": "24000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "9.999 €"
+    },
+    {
+        "znamka": "Honda Cb 1300 ",
+        "leto": "2003",
+        "kilometri": "64000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.990 €"
+    },
+    {
+        "znamka": "Yamaha Yzf 250",
+        "leto": "2009",
+        "kilometri": "1234 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.650 €"
+    },
+    {
+        "znamka": "Suzuki GSF 1200 S",
+        "leto": "2001",
+        "kilometri": "46515 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.290 €"
+    },
+    {
+        "znamka": "Kawasaki KLR600s",
+        "leto": "1986",
+        "kilometri": "25000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "950 €"
+    },
+    {
+        "znamka": "TM Racing Mx 144",
+        "leto": "2014",
+        "kilometri": "30 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Beta Beta evo 125",
+        "leto": "2017",
+        "kilometri": "28000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.890 €"
+    },
+    {
+        "znamka": "BMW R 1200 gs",
+        "leto": "2012",
+        "kilometri": "70000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.990 €"
+    },
+    {
+        "znamka": "Suzuki Gsx1000s",
+        "leto": "2016",
+        "kilometri": "32500 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.000 €"
+    },
+    {
+        "znamka": "BMW R 1200 GS rally",
+        "leto": "2012",
+        "kilometri": "55600 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "11.000 €"
+    },
+    {
+        "znamka": "Kawasaki Er6n",
+        "leto": "2007",
+        "kilometri": "17200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.590 €"
+    },
+    {
+        "znamka": "Yamaha Yzf 250",
+        "leto": "2015",
+        "kilometri": "35 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "KTM Exc 300 ",
+        "leto": "2012",
+        "kilometri": "10200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "Honda Hornet 900 Možnost menjave",
+        "leto": "2002",
+        "kilometri": "53000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.450 €"
+    },
+    {
+        "znamka": "Hyosung GT 650 S",
+        "leto": "2006",
+        "kilometri": "8100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.600 €"
+    }
+]
