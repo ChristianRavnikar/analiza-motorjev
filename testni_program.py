@@ -48,12 +48,15 @@ vzorec = re.compile(
 
 motorji = []
 
-with open('testna_datoteka.html', encoding='utf-8') as dat:
-    vsebina = dat.read()
-    najdeni = vzorec.finditer(vsebina)
-    for i, ujemanje in enumerate(najdeni, 1):
-        print(i, ujemanje.groupdict())
-        motorji.append(ujemanje.groupdict())
+stevec = 1
+for st_strani in range(21):
+    with open(f'motorji_zajem\stran_{st_strani + 1}.html', encoding='utf-8') as dat:
+        vsebina = dat.read()
+        najdeni = vzorec.finditer(vsebina)
+        for ujemanje in najdeni:
+            print(stevec, ujemanje.groupdict())
+            stevec += 1
+            motorji.append(ujemanje.groupdict())
 
 # s tem bomo shranili v JSON datoteko
 with open('motorji.json', 'w', encoding='utf-8') as dat:

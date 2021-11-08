@@ -1,5 +1,12 @@
 [
     {
+        "znamka": "Suzuki GS 750E",
+        "leto": "1983",
+        "kilometri": "61400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.800 €"
+    },
+    {
         "znamka": "Ducati Diavel 1260",
         "leto": "2019",
         "kilometri": "1400 km",
@@ -28,13 +35,6 @@
         "cena": "6.890 €"
     },
     {
-        "znamka": "BMW S 1000 XR ESA ZNIŽAN",
-        "leto": "2016",
-        "kilometri": "79240 km",
-        "menjalnik": "nožni menjalnik",
-        "cena": "10.780 €"
-    },
-    {
         "znamka": "BMW R 1250 RT - vsa oprema - SLO",
         "leto": "2019",
         "kilometri": "15809 km",
@@ -42,11 +42,515 @@
         "cena": "19.690 €"
     },
     {
+        "znamka": "BMW R1200rt ",
+        "leto": "2005",
+        "kilometri": "116000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.200 €"
+    },
+    {
+        "znamka": "Yamaha FZ8 SA FAZER ABS",
+        "leto": "2011",
+        "kilometri": "35000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.900 €"
+    },
+    {
+        "znamka": "Husqvarna ",
+        "leto": "2019",
+        "kilometri": "80 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.750 €"
+    },
+    {
+        "znamka": "Xmotos cross",
+        "leto": "2011",
+        "kilometri": "100 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "650 €"
+    },
+    {
+        "znamka": "Beta evo 300 factory",
+        "leto": "2013",
+        "kilometri": "1000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Honda CBR",
+        "leto": "2011",
+        "kilometri": "40000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
         "znamka": "Honda NC700SA ABS A2kategorija  SLO HITRI KREDIT",
         "leto": "2013",
         "kilometri": "38000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.699 €"
+    },
+    {
+        "znamka": "Honda Vt 600 shadow",
+        "leto": "2001",
+        "kilometri": "23000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.350 €"
+    },
+    {
+        "znamka": "Yamaha FAZER 1000",
+        "leto": "2003",
+        "kilometri": "75584 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Yamaha YZ 125",
+        "leto": "2001",
+        "kilometri": "30 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.275 €"
+    },
+    {
+        "znamka": "Yamaha Fz8n",
+        "leto": "2010",
+        "kilometri": "32500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.300 €"
+    },
+    {
+        "znamka": "Yamaha VMX 1200 V-MAX- LASER-ODLIČEN",
+        "leto": "1994",
+        "kilometri": "37491 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.900 €"
+    },
+    {
+        "znamka": "BMW F 800 R-ABS-ODLIČEN",
+        "leto": "2010",
+        "kilometri": "90250 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.550 €"
+    },
+    {
+        "znamka": "Ducati MONSTER 1200S  SLO KOT NOV  FINANCIRANJE",
+        "leto": "2016",
+        "kilometri": "22000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.990 €"
+    },
+    {
+        "znamka": "KTM EXC 350 HOMOLOGIRAN ",
+        "leto": "2013",
+        "kilometri": "120 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.875 €"
+    },
+    {
+        "znamka": "Yamaha MT 03 KOT NOVA- A2-NA KREDIT",
+        "leto": "2011",
+        "kilometri": "41002 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.590 €"
+    },
+    {
+        "znamka": "Beta 300 x-trainer HOMOLOGIRANA",
+        "leto": "2020",
+        "kilometri": "70 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.875 €"
+    },
+    {
+        "znamka": "KTM EXC 250 HOMOLOGIRAN ",
+        "leto": "2019",
+        "kilometri": "160 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.875 €"
+    },
+    {
+        "znamka": "Benelli TRK 502 X  A2 KAT.Garancija  HITRI KREDIT",
+        "leto": "2020",
+        "kilometri": "19000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.399 €"
+    },
+    {
+        "znamka": "Rieju MRX 50",
+        "leto": "2008",
+        "kilometri": "13000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.200 €"
+    },
+    {
+        "znamka": "Honda CRF 250",
+        "leto": "2010",
+        "kilometri": "35 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.400 €"
+    },
+    {
+        "znamka": "KTM Sxf 250",
+        "leto": "2015",
+        "kilometri": "12949 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "14.990 €"
+    },
+    {
+        "znamka": "Aprilia RS 125 replica 22 kW",
+        "leto": "2003",
+        "kilometri": "17370 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.900 €"
+    },
+    {
+        "znamka": "Honda Crf 450r",
+        "leto": "2015",
+        "kilometri": "30 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.090 €"
+    },
+    {
+        "znamka": "KTM Exc350f",
+        "leto": "2020",
+        "kilometri": "130 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.300 €"
+    },
+    {
+        "znamka": "KTM 690 smc",
+        "leto": "2012",
+        "kilometri": "28000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.000 €"
+    },
+    {
+        "znamka": "BMW 1200 gs",
+        "leto": "2011",
+        "kilometri": "120000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.900 €"
+    },
+    {
+        "znamka": "BMW S 1000 XR ESA ZNIŽAN",
+        "leto": "2016",
+        "kilometri": "79240 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.780 €"
+    },
+    {
+        "znamka": "Aprilia Shiver 750 ABS",
+        "leto": "2019",
+        "kilometri": "16000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "MotoGuzzi Stelvio 12004V",
+        "leto": "2008",
+        "kilometri": "63450 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.780 €"
+    },
+    {
+        "znamka": "Honda Cbr 600f",
+        "leto": "2001",
+        "kilometri": "4300 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.700 €"
+    },
+    {
+        "znamka": "Suzuki V-STROM 1000 XT ABS TC 1 LASTNIK KOT NOVI",
+        "leto": "2019",
+        "kilometri": "19049 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.990 €"
+    },
+    {
+        "znamka": "Honda CBF 1000 FA ... SAMO 14000km",
+        "leto": "2010",
+        "kilometri": "14058 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.500 €"
+    },
+    {
+        "znamka": "Honda CB 1000 R ABS TC EB odlična",
+        "leto": "2018",
+        "kilometri": "12395 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.750 €"
+    },
+    {
+        "znamka": "Triumph Rocket 3",
+        "leto": "2007",
+        "kilometri": "38000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.300 €"
+    },
+    {
+        "znamka": "Honda NC700SA ABS 35 kw odlična",
+        "leto": "2013",
+        "kilometri": "20650 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.690 €"
+    },
+    {
+        "znamka": "Honda CBR 650 FA  ABS SPECIAL EDITION Odlična",
+        "leto": "2016",
+        "kilometri": "13807 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.190 €"
+    },
+    {
+        "znamka": "MOTO Loncin",
+        "leto": "2022",
+        "kilometri": "200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "650 €"
+    },
+    {
+        "znamka": "Kawasaki Z1000",
+        "leto": "2009",
+        "kilometri": "37000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.600 €"
+    },
+    {
+        "znamka": "BMW R 1150 RT",
+        "leto": "2002",
+        "kilometri": "98000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "Honda xl 650 transalp",
+        "leto": "2005",
+        "kilometri": "48000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "Kawasaki versys 650",
+        "leto": "2009",
+        "kilometri": "68200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Oldtimer Horex Regina",
+        "leto": "2002",
+        "kilometri": "16000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "12.000 €"
+    },
+    {
+        "znamka": "KTM SXF 350",
+        "leto": "2017",
+        "kilometri": "245 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.300 €"
+    },
+    {
+        "znamka": "KTM SX150",
+        "leto": "2010",
+        "kilometri": "27000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.150 €"
+    },
+    {
+        "znamka": "BMW R 1200 GS",
+        "leto": "2011",
+        "kilometri": "69000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.500 €"
+    },
+    {
+        "znamka": "Yamaha yzf r 125",
+        "leto": "2013",
+        "kilometri": "35080 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.700 €"
+    },
+    {
+        "znamka": "Ducati Panigale 1199 -opreme za 12 tisoc eur",
+        "leto": "2013",
+        "kilometri": "24300 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "13.800 €"
+    },
+    {
+        "znamka": "Honda CBR 600 RR + kombinezon",
+        "leto": "2004",
+        "kilometri": "45000 km",
         "menjalnik": "nožni menjalnik",
         "cena": "3.700 €"
+    },
+    {
+        "znamka": "Xmotos Loncin 125",
+        "leto": "2017",
+        "kilometri": "120 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "480 €"
+    },
+    {
+        "znamka": "Yamaha YZF 250",
+        "leto": "2017",
+        "kilometri": "124 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.520 €"
+    },
+    {
+        "znamka": "Yamaha SCR950",
+        "leto": "2020",
+        "kilometri": "7728 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.900 €"
+    },
+    {
+        "znamka": "Suzuki RMZ 450",
+        "leto": "2007",
+        "kilometri": "115 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.250 €"
+    },
+    {
+        "znamka": "Honda Magna vf 750c",
+        "leto": "2000",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.400 €"
+    },
+    {
+        "znamka": "Kawasaki klx 125",
+        "leto": "2011",
+        "kilometri": "45000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "Husqvarna Sm 610",
+        "leto": "2003",
+        "kilometri": "100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.700 €"
+    },
+    {
+        "znamka": "Kawasaki ER 500 A",
+        "leto": "1999",
+        "kilometri": "54555 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.350 €"
+    },
+    {
+        "znamka": "Husqvarna 701 Enduro rally",
+        "leto": "2021",
+        "kilometri": "3700 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "12.000 €"
+    },
+    {
+        "znamka": "Husqvarna Tc 85",
+        "leto": "2015",
+        "kilometri": "30 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.799 €"
+    },
+    {
+        "znamka": "BMW Rt 1150",
+        "leto": "2003",
+        "kilometri": "75000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "Aprilia Tuono V4 1100 RR",
+        "leto": "2018",
+        "kilometri": "29400 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "10.600 €"
+    },
+    {
+        "znamka": "Suzuki gsxr 600",
+        "leto": "2011",
+        "kilometri": "24800 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.900 €"
+    },
+    {
+        "znamka": "Honda NC750",
+        "leto": "2020",
+        "kilometri": "2170 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.900 €"
+    },
+    {
+        "znamka": "KTM EXC 300 ",
+        "leto": "2014",
+        "kilometri": "3000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.100 €"
+    },
+    {
+        "znamka": "Honda cb 500",
+        "leto": "2000",
+        "kilometri": "42000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.200 €"
+    },
+    {
+        "znamka": "Yamaha Yz",
+        "leto": "2006",
+        "kilometri": "13810 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.200 €"
+    },
+    {
+        "znamka": "Suzuki ",
+        "leto": "2003",
+        "kilometri": "62300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.700 €"
+    },
+    {
+        "znamka": "MotoGuzzi 850 T5",
+        "leto": "1984",
+        "kilometri": "34000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.950 €"
+    },
+    {
+        "znamka": "Honda Varadero XL 1000",
+        "leto": "2004",
+        "kilometri": "63639 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.900 €"
+    },
+    {
+        "znamka": "Yamaha YZF - R6",
+        "leto": "2002",
+        "kilometri": "42730 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "Jawa ČZ 250 SPORT",
+        "leto": "1970",
+        "kilometri": "20000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.300 €"
+    },
+    {
+        "znamka": "Yamaha Mt 07",
+        "leto": "2015",
+        "kilometri": "29000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Yamaha XJ 700 Maxim",
+        "leto": "1985",
+        "kilometri": "47000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.390 €"
     },
     {
         "znamka": "Honda CBR650FA NOVE GUME ODLIČNA HITRI KREDIT",
@@ -91,18 +595,11 @@
         "cena": "3.150 €"
     },
     {
-        "znamka": "Husqvarna Fc350",
+        "znamka": "Husqvarna Fc350 možna menjava in",
         "leto": "2019",
         "kilometri": "87 km",
         "menjalnik": "nožni menjalnik",
         "cena": "4.500 €"
-    },
-    {
-        "znamka": "BMW BMW R 1200 GS",
-        "leto": "2017",
-        "kilometri": "44000 km",
-        "menjalnik": "polavtomatski menjalnik",
-        "cena": "16.200 €"
     },
     {
         "znamka": "Sherco SE 300 F -AKRAPOVIC- FACTORY-",
@@ -217,13 +714,6 @@
         "cena": "4.990 €"
     },
     {
-        "znamka": "Yamaha Yzf 250",
-        "leto": "2009",
-        "kilometri": "1234 km",
-        "menjalnik": "ročni menjalnik",
-        "cena": "2.650 €"
-    },
-    {
         "znamka": "Suzuki GSF 1200 S",
         "leto": "2001",
         "kilometri": "46515 km",
@@ -306,5 +796,5493 @@
         "kilometri": "8100 km",
         "menjalnik": "nožni menjalnik",
         "cena": "1.600 €"
+    },
+    {
+        "znamka": "Kawasaki KX85",
+        "leto": "2003",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.200 €"
+    },
+    {
+        "znamka": "Yamaha fz6 N",
+        "leto": "2005",
+        "kilometri": "54995 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "Kawasaki ",
+        "leto": "2009",
+        "kilometri": "12000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "Harley-Davidson Iron 883",
+        "leto": "2012",
+        "kilometri": "25000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "11.000 €"
+    },
+    {
+        "znamka": "Yamaha FZn 600",
+        "leto": "2004",
+        "kilometri": "89000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.999 €"
+    },
+    {
+        "znamka": "MotoGuzzi V7 III RACER 10ZH ANNIVERSARY",
+        "leto": "2021",
+        "kilometri": "4619 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.790 €"
+    },
+    {
+        "znamka": "Honda CR 85 R",
+        "leto": "2007",
+        "kilometri": "35 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.600 €"
+    },
+    {
+        "znamka": "Honda XRV 750N AFRICA TWIN",
+        "leto": "1992",
+        "kilometri": "85000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "KTM Sxf 350",
+        "leto": "2016",
+        "kilometri": "87 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.290 €"
+    },
+    {
+        "znamka": "Honda crf 1000",
+        "leto": "2020",
+        "kilometri": "17000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "11.500 €"
+    },
+    {
+        "znamka": "Suzuki ",
+        "leto": "1972",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.800 €"
+    },
+    {
+        "znamka": "Sherco Factory 300",
+        "leto": "2020",
+        "kilometri": "150 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.500 €"
+    },
+    {
+        "znamka": "Husqvarna Te 510",
+        "leto": "2008",
+        "kilometri": "8800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "Yamaha R1 YART",
+        "leto": "2008",
+        "kilometri": "2700 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Suzuki GSXR 750 Pista Cesta",
+        "leto": "2007",
+        "kilometri": "13000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.000 €"
+    },
+    {
+        "znamka": "KTM EXC 350 ",
+        "leto": "2018",
+        "kilometri": "200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.050 €"
+    },
+    {
+        "znamka": "BMW R 1200 GS",
+        "leto": "2019",
+        "kilometri": "15200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "16.550 €"
+    },
+    {
+        "znamka": "Aprilia CAPONORD 1200 ABS",
+        "leto": "2015",
+        "kilometri": "70500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.490 €"
+    },
+    {
+        "znamka": "Ducati Scrambler",
+        "leto": "2015",
+        "kilometri": "24200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.250 €"
+    },
+    {
+        "znamka": "Yamaha TRACER 900",
+        "leto": "2015",
+        "kilometri": "32000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.000 €"
+    },
+    {
+        "znamka": "Ducati NCR PANTAH 600",
+        "leto": "1980",
+        "kilometri": "5000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.200 €"
+    },
+    {
+        "znamka": "Cagiva Riva 500",
+        "leto": "2008",
+        "kilometri": "9000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.600 €"
+    },
+    {
+        "znamka": "Kawasaki 454 ltd",
+        "leto": "1985",
+        "kilometri": "25000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.400 €"
+    },
+    {
+        "znamka": "Suzuki rmz 450",
+        "leto": "2007",
+        "kilometri": "26000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.100 €"
+    },
+    {
+        "znamka": "Husqvarna FC 350",
+        "leto": "2021",
+        "kilometri": "15 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.500 €"
+    },
+    {
+        "znamka": "Yamaha Yzf r125",
+        "leto": "2018",
+        "kilometri": "12500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Honda CRF250",
+        "leto": "2013",
+        "kilometri": "40900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.990 €"
+    },
+    {
+        "znamka": "Aprilia Pegaso 650",
+        "leto": "1999",
+        "kilometri": "66200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.100 €"
+    },
+    {
+        "znamka": "Kawasaki KXF 250",
+        "leto": "2011",
+        "kilometri": "8400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.800 €"
+    },
+    {
+        "znamka": "Honda VFR1200X ABS TC CROSSTOURER VFR 1200 X AUTOMATIC",
+        "leto": "2013",
+        "kilometri": "18100 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "8.600 €"
+    },
+    {
+        "znamka": "Honda VFR1200F ABS VRF 1200 F AUTOMATIC",
+        "leto": "2010",
+        "kilometri": "42700 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "6.350 €"
+    },
+    {
+        "znamka": "BMW R1200GS ADVENTURE R 1200 GS ",
+        "leto": "2014",
+        "kilometri": "68100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "12.990 €"
+    },
+    {
+        "znamka": "MV Agusta Brutale 750",
+        "leto": "2005",
+        "kilometri": "34000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Kawasaki ",
+        "leto": "2005",
+        "kilometri": "56500 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "2.750 €"
+    },
+    {
+        "znamka": "Yamaha Yfz450 GYTR oprema",
+        "leto": "2018",
+        "kilometri": "50000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Honda CB 900 F HORNET LEO VINCE CB900F HORNET",
+        "leto": "2003",
+        "kilometri": "44000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.990 €"
+    },
+    {
+        "znamka": "Honda Crf 250r yoshimura",
+        "leto": "2014",
+        "kilometri": "28000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.190 €"
+    },
+    {
+        "znamka": "Yamaha ",
+        "leto": "2008",
+        "kilometri": "122 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Honda CB 900 F Hornet",
+        "leto": "2009",
+        "kilometri": "60000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "Husqvarna fe 350-homologirana",
+        "leto": "2015",
+        "kilometri": "7240 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.200 €"
+    },
+    {
+        "znamka": "Honda Crf 450 ",
+        "leto": "2016",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.780 €"
+    },
+    {
+        "znamka": "Yamaha YZF R6",
+        "leto": "2006",
+        "kilometri": "20000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Aprilia Caponord 1200 Rally",
+        "leto": "2018",
+        "kilometri": "6400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "12.500 €"
+    },
+    {
+        "znamka": "Kawasaki ER6F financiranje",
+        "leto": "2007",
+        "kilometri": "45300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.680 €"
+    },
+    {
+        "znamka": "Honda Hornet Cb 600f",
+        "leto": "1999",
+        "kilometri": "55000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.150 €"
+    },
+    {
+        "znamka": "Yamaha XT 660X",
+        "leto": "2008",
+        "kilometri": "16450 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "10.890 €"
+    },
+    {
+        "znamka": "Suzuki XF 650",
+        "leto": "2000",
+        "kilometri": "47200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "900 €"
+    },
+    {
+        "znamka": "Honda GOLD WING 1800",
+        "leto": "2005",
+        "kilometri": "218000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "MZ 250 etz",
+        "leto": "1987",
+        "kilometri": "50000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "450 €"
+    },
+    {
+        "znamka": "KTM EXC 350F",
+        "leto": "2017",
+        "kilometri": "227 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.950 €"
+    },
+    {
+        "znamka": "Honda CBR 1000 RA",
+        "leto": "2014",
+        "kilometri": "20200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.999 €"
+    },
+    {
+        "znamka": "Honda CRF450R ÖHLINS",
+        "leto": "2016",
+        "kilometri": "43171 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.390 €"
+    },
+    {
+        "znamka": "Honda NC 750 XA ABS odlična",
+        "leto": "2016",
+        "kilometri": "24440 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.190 €"
+    },
+    {
+        "znamka": "BMW G 310 GS ABS 1 LASTNIK KOT NOVI",
+        "leto": "2021",
+        "kilometri": "1132 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.090 €"
+    },
+    {
+        "znamka": "Yamaha Yzf r125",
+        "leto": "2015",
+        "kilometri": "18923 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Honda Deauville",
+        "leto": "2001",
+        "kilometri": "68500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.600 €"
+    },
+    {
+        "znamka": "BMW R25 2",
+        "leto": "1953",
+        "kilometri": "33234 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.800 €"
+    },
+    {
+        "znamka": "Puch 175 SV",
+        "leto": "1956",
+        "kilometri": "10 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Honda CRF 250",
+        "leto": "2020",
+        "kilometri": "1 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.690 €"
+    },
+    {
+        "znamka": "BMW R 1200 RT",
+        "leto": "2018",
+        "kilometri": "27500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "15.990 €"
+    },
+    {
+        "znamka": "Aprilia RSV mile",
+        "leto": "2000",
+        "kilometri": "32000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.250 €"
+    },
+    {
+        "znamka": "Honda CRF 450",
+        "leto": "2020",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.900 €"
+    },
+    {
+        "znamka": "KTM 990 super duke",
+        "leto": "2006",
+        "kilometri": "48000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "KTM Sxf 350",
+        "leto": "2015",
+        "kilometri": "32200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "Ducati 939 SUPERSPORT S",
+        "leto": "2017",
+        "kilometri": "20043 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.600 €"
+    },
+    {
+        "znamka": "Yamaha YZF 250 hgs",
+        "leto": "2016",
+        "kilometri": "157 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Kawasaki NINJA 650 ABS",
+        "leto": "2019",
+        "kilometri": "12890 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.500 €"
+    },
+    {
+        "znamka": "BMW F800R F 800 R",
+        "leto": "2010",
+        "kilometri": "47100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.900 €"
+    },
+    {
+        "znamka": "Suzuki C 800 INTRUDER-KOT NOV-SLO-1 LASTNIK",
+        "leto": "2014",
+        "kilometri": "50050 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.450 €"
+    },
+    {
+        "znamka": "Yamaha YZF R6 SLO-ODLIČNA",
+        "leto": "2004",
+        "kilometri": "69750 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.190 €"
+    },
+    {
+        "znamka": "Honda Africa Twin-kot nova",
+        "leto": "2018",
+        "kilometri": "26500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.500 €"
+    },
+    {
+        "znamka": "Honda CBR 250 R HRC-ABS-SAMO 5.900 KM-KOT NOVA",
+        "leto": "2015",
+        "kilometri": "5937 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.990 €"
+    },
+    {
+        "znamka": "Yamaha Fz1",
+        "leto": "2007",
+        "kilometri": "66811 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Yamaha fejzer",
+        "leto": "2000",
+        "kilometri": "60986 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.100 €"
+    },
+    {
+        "znamka": "Husqvarna FE350 ",
+        "leto": "2018",
+        "kilometri": "181 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.850 €"
+    },
+    {
+        "znamka": "Kawasaki ",
+        "leto": "2004",
+        "kilometri": "35000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.000 €"
+    },
+    {
+        "znamka": "BMW K 1600 GTL K1600GTL",
+        "leto": "2011",
+        "kilometri": "73315 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.990 €"
+    },
+    {
+        "znamka": "Suzuki GSR",
+        "leto": "2011",
+        "kilometri": "23220 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.999 €"
+    },
+    {
+        "znamka": "Suzuki GSXF",
+        "leto": "2006",
+        "kilometri": "45000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "BMW K1600GT K 1600 GT",
+        "leto": "2018",
+        "kilometri": "36419 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "19.990 €"
+    },
+    {
+        "znamka": "Kawasaki Z900 ABS TFT NOVI MODEL KREDIT",
+        "leto": "2020",
+        "kilometri": "11000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.400 €"
+    },
+    {
+        "znamka": "BMW R1200R LC R 1200 R",
+        "leto": "2015",
+        "kilometri": "25650 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "9.990 €"
+    },
+    {
+        "znamka": "BMW R1200RT 2011",
+        "leto": "2011",
+        "kilometri": "40158 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.500 €"
+    },
+    {
+        "znamka": "Yamaha Mt 125",
+        "leto": "2019",
+        "kilometri": "6017 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.900 €"
+    },
+    {
+        "znamka": "Yamaha FZ1 S Fazer",
+        "leto": "2008",
+        "kilometri": "38450 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.750 €"
+    },
+    {
+        "znamka": "Husqvarna FC 450 ",
+        "leto": "2016",
+        "kilometri": "114 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.150 €"
+    },
+    {
+        "znamka": "Suzuki V strom",
+        "leto": "2012",
+        "kilometri": "44700 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.400 €"
+    },
+    {
+        "znamka": "CF Moto ",
+        "leto": "2009",
+        "kilometri": "2500 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "800 €"
+    },
+    {
+        "znamka": "Husqvarna FE 350 -HOMOLOGIRAN-",
+        "leto": "2019",
+        "kilometri": "130 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.900 €"
+    },
+    {
+        "znamka": "KTM Super Adventure 1290",
+        "leto": "2020",
+        "kilometri": "8800 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "14.500 €"
+    },
+    {
+        "znamka": "Tomos Puch 175 SV",
+        "leto": "1957",
+        "kilometri": "3580 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.250 €"
+    },
+    {
+        "znamka": "Stomp Stomp WPB BEAST 190",
+        "leto": "2021",
+        "kilometri": "15 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.450 €"
+    },
+    {
+        "znamka": "Honda CRF 1000 Africa Twin 2019 KOT NOVA",
+        "leto": "2019",
+        "kilometri": "16600 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "10.390 €"
+    },
+    {
+        "znamka": "BMW R 1150 GS",
+        "leto": "2000",
+        "kilometri": "78000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.540 €"
+    },
+    {
+        "znamka": "BMW F800 gs",
+        "leto": "2016",
+        "kilometri": "43000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.900 €"
+    },
+    {
+        "znamka": "KTM 690",
+        "leto": "2010",
+        "kilometri": "32300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.990 €"
+    },
+    {
+        "znamka": "Honda Cbr 125 r",
+        "leto": "2013",
+        "kilometri": "25000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.700 €"
+    },
+    {
+        "znamka": "Yamaha MT-09 TRACER",
+        "leto": "2015",
+        "kilometri": "32173 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.400 €"
+    },
+    {
+        "znamka": "Beta rr 125 2t",
+        "leto": "2021",
+        "kilometri": "135 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.500 €"
+    },
+    {
+        "znamka": "MOTO Pit bike 125cc",
+        "leto": "2021",
+        "kilometri": "11740 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "749 €"
+    },
+    {
+        "znamka": "KTM Sx 85",
+        "leto": "2020",
+        "kilometri": "135 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.100 €"
+    },
+    {
+        "znamka": "Honda XL 700 TRANSALP",
+        "leto": "2011",
+        "kilometri": "54975 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "Sym NH T 125",
+        "leto": "2019",
+        "kilometri": "13023 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.890 €"
+    },
+    {
+        "znamka": "Suzuki RM-Z 250",
+        "leto": "2012",
+        "kilometri": "10 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.750 €"
+    },
+    {
+        "znamka": "KTM DUKE 390 ABS",
+        "leto": "2015",
+        "kilometri": "28466 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.290 €"
+    },
+    {
+        "znamka": "KTM Sx 125 2000",
+        "leto": "2000",
+        "kilometri": "32 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.100 €"
+    },
+    {
+        "znamka": "Kawasaki VERSYS 650 ABS",
+        "leto": "2016",
+        "kilometri": "46400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.300 €"
+    },
+    {
+        "znamka": "BMW S1000XR ABS TC ESA S 1000 XR",
+        "leto": "2015",
+        "kilometri": "43900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "11.990 €"
+    },
+    {
+        "znamka": "Honda Cbr 600 f MENJAM",
+        "leto": "1999",
+        "kilometri": "40000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.350 €"
+    },
+    {
+        "znamka": "Kawasaki Versys 1000 gt",
+        "leto": "2012",
+        "kilometri": "34000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.950 €"
+    },
+    {
+        "znamka": "KTM 300 Exc",
+        "leto": "2021",
+        "kilometri": "110 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.300 €"
+    },
+    {
+        "znamka": "KTM ",
+        "leto": "2017",
+        "kilometri": "131 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.590 €"
+    },
+    {
+        "znamka": "NSU Pretis 175",
+        "leto": "1963",
+        "kilometri": "1000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "700 €"
+    },
+    {
+        "znamka": "Yamaha YZF 450",
+        "leto": "2020",
+        "kilometri": "2 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.000 €"
+    },
+    {
+        "znamka": "Suzuki RMZ 250",
+        "leto": "2017",
+        "kilometri": "20 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.700 €"
+    },
+    {
+        "znamka": "Yamaha YZF 450",
+        "leto": "2015",
+        "kilometri": "6 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.150 €"
+    },
+    {
+        "znamka": "Yamaha Yz 125",
+        "leto": "2021",
+        "kilometri": "50 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.250 €"
+    },
+    {
+        "znamka": "Honda CRF 250",
+        "leto": "2020",
+        "kilometri": "77 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.900 €"
+    },
+    {
+        "znamka": "Honda CBF 600 ABS SLO",
+        "leto": "2009",
+        "kilometri": "91000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.950 €"
+    },
+    {
+        "znamka": "Honda CBR XX1100 SuperBlackBird",
+        "leto": "1999",
+        "kilometri": "66538 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "Yamaha MT 03 - 660",
+        "leto": "2006",
+        "kilometri": "15000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "YCF Bigy",
+        "leto": "2017",
+        "kilometri": "75 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.230 €"
+    },
+    {
+        "znamka": "Yamaha Midnaihtstar 1900xvs",
+        "leto": "2014",
+        "kilometri": "32457 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "16.450 €"
+    },
+    {
+        "znamka": "Aprilia Sx 50",
+        "leto": "2020",
+        "kilometri": "3300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.700 €"
+    },
+    {
+        "znamka": "BMW R 1200 RT ABS TCS RDC",
+        "leto": "2012",
+        "kilometri": "116183 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.400 €"
+    },
+    {
+        "znamka": "BMW 650 GS f",
+        "leto": "2003",
+        "kilometri": "46860 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.490 €"
+    },
+    {
+        "znamka": "KTM SXF350 Tony Cairoli",
+        "leto": "2012",
+        "kilometri": "170 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "Honda CRF 450R",
+        "leto": "2010",
+        "kilometri": "210 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Aprilia ",
+        "leto": "1999",
+        "kilometri": "11111 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "320 €"
+    },
+    {
+        "znamka": "BMW R 1150 RT",
+        "leto": "2002",
+        "kilometri": "92932 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "Dnepr K750",
+        "leto": "1967",
+        "kilometri": "30000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.990 €"
+    },
+    {
+        "znamka": "Suzuki GSX R 1000 K3",
+        "leto": "2003",
+        "kilometri": "40000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "BMW R 1200 GSA Adv Triple black Martin edition",
+        "leto": "2012",
+        "kilometri": "86300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.900 €"
+    },
+    {
+        "znamka": "Honda CBR",
+        "leto": "2004",
+        "kilometri": "88870 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "Honda CBF1000",
+        "leto": "2008",
+        "kilometri": "50000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "BMW RT 1150",
+        "leto": "2003",
+        "kilometri": "93400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.450 €"
+    },
+    {
+        "znamka": "KTM SX 250 CAIROLI HGS",
+        "leto": "2015",
+        "kilometri": "65 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.890 €"
+    },
+    {
+        "znamka": "Aprilia Dorsoduro 1200",
+        "leto": "2012",
+        "kilometri": "31800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.600 €"
+    },
+    {
+        "znamka": "Yamaha Xt1200ze",
+        "leto": "2015",
+        "kilometri": "84000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.300 €"
+    },
+    {
+        "znamka": "Yamaha R1 LETNIK 2006",
+        "leto": "2006",
+        "kilometri": "40000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Husqvarna TC 50",
+        "leto": "2021",
+        "kilometri": "60 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "Kawasaki Z800 35kw-A2. akrapovič",
+        "leto": "2013",
+        "kilometri": "16344 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.900 €"
+    },
+    {
+        "znamka": "Kawasaki Kxf   Financiranje",
+        "leto": "2016",
+        "kilometri": "60 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.350 €"
+    },
+    {
+        "znamka": "Aprilia Rs4 125",
+        "leto": "2017",
+        "kilometri": "21000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Honda SHADOV",
+        "leto": "2007",
+        "kilometri": "45000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.300 €"
+    },
+    {
+        "znamka": "KTM EXC 350f SIXDAYS ",
+        "leto": "2020",
+        "kilometri": "95 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.350 €"
+    },
+    {
+        "znamka": "Triumph Thruxton 900 Gold Stripe",
+        "leto": "2013",
+        "kilometri": "25000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.100 €"
+    },
+    {
+        "znamka": "TMS ",
+        "leto": "2013",
+        "kilometri": "6600 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "700 €"
+    },
+    {
+        "znamka": "Honda CBF 1000 FA",
+        "leto": "2011",
+        "kilometri": "40000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "BMW GS R1200-Adventures",
+        "leto": "2018",
+        "kilometri": "13000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "18.500 €"
+    },
+    {
+        "znamka": "Kawasaki kle 500 V račun vzamem tomos ap4",
+        "leto": "1998",
+        "kilometri": "60 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.250 €"
+    },
+    {
+        "znamka": "KTM sx 250",
+        "leto": "2020",
+        "kilometri": "67 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.700 €"
+    },
+    {
+        "znamka": "Honda CB125F",
+        "leto": "2019",
+        "kilometri": "23000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.800 €"
+    },
+    {
+        "znamka": "Benelli TNT 1130",
+        "leto": "2007",
+        "kilometri": "5000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.000 €"
+    },
+    {
+        "znamka": "BMW gs",
+        "leto": "2005",
+        "kilometri": "89000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.900 €"
+    },
+    {
+        "znamka": "Yamaha Yzf250",
+        "leto": "2009",
+        "kilometri": "93000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "BMW Rt 1150",
+        "leto": "2002",
+        "kilometri": "90000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.350 €"
+    },
+    {
+        "znamka": "Yamaha 650 DRAGSTAR CLASSIC  menjava ",
+        "leto": "2002",
+        "kilometri": "5000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Harley-Davidson ELECTRA-STREET GLIDE  FLHTK",
+        "leto": "2015",
+        "kilometri": "31000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "17.999 €"
+    },
+    {
+        "znamka": "Kawasaki kxf 450",
+        "leto": "2019",
+        "kilometri": "170 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.300 €"
+    },
+    {
+        "znamka": "BMW gs",
+        "leto": "1991",
+        "kilometri": "55000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.000 €"
+    },
+    {
+        "znamka": "MOTO RR50",
+        "leto": "2002",
+        "kilometri": "14000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.250 €"
+    },
+    {
+        "znamka": "Yamaha 250 yzf",
+        "leto": "2005",
+        "kilometri": "115 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.150 €"
+    },
+    {
+        "znamka": "Yamaha ",
+        "leto": "2002",
+        "kilometri": "120 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.900 €"
+    },
+    {
+        "znamka": "Honda Crf 250",
+        "leto": "2015",
+        "kilometri": "51 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.400 €"
+    },
+    {
+        "znamka": "Kawasaki KLE",
+        "leto": "2003",
+        "kilometri": "40000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.800 €"
+    },
+    {
+        "znamka": "Yamaha MT-07",
+        "leto": "2018",
+        "kilometri": "24000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.300 €"
+    },
+    {
+        "znamka": "Yamaha FZ6 - Fazer",
+        "leto": "2007",
+        "kilometri": "69900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "KTM 790 Adventure S",
+        "leto": "2019",
+        "kilometri": "6900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.300 €"
+    },
+    {
+        "znamka": "Honda cb1000r RA",
+        "leto": "2011",
+        "kilometri": "30000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.350 €"
+    },
+    {
+        "znamka": "KTM Sxf",
+        "leto": "2012",
+        "kilometri": "108000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.800 €"
+    },
+    {
+        "znamka": "Honda Crf 250",
+        "leto": "2016",
+        "kilometri": "40560 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.999 €"
+    },
+    {
+        "znamka": "Yamaha XT1200ZE - KOT NOV",
+        "leto": "2014",
+        "kilometri": "45000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.200 €"
+    },
+    {
+        "znamka": "Yamaha FZ1-N",
+        "leto": "2011",
+        "kilometri": "55900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.400 €"
+    },
+    {
+        "znamka": "KTM Exc 530 ",
+        "leto": "2009",
+        "kilometri": "15000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.600 €"
+    },
+    {
+        "znamka": "Yamaha Fazer",
+        "leto": "2003",
+        "kilometri": "101000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.250 €"
+    },
+    {
+        "znamka": "BMW s1000r",
+        "leto": "2018",
+        "kilometri": "16000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "11.300 €"
+    },
+    {
+        "znamka": "Kawasaki er6f",
+        "leto": "2013",
+        "kilometri": "20000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.800 €"
+    },
+    {
+        "znamka": "Honda varadero xl1000",
+        "leto": "2008",
+        "kilometri": "138000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.600 €"
+    },
+    {
+        "znamka": "BMW 1200 rs",
+        "leto": "2017",
+        "kilometri": "51000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "11.000 €"
+    },
+    {
+        "znamka": "Honda magna",
+        "leto": "1988",
+        "kilometri": "27500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.850 €"
+    },
+    {
+        "znamka": "Kawasaki ZZR 1400",
+        "leto": "2009",
+        "kilometri": "26000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.200 €"
+    },
+    {
+        "znamka": "Honda CBF 600 N",
+        "leto": "2006",
+        "kilometri": "18300 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.400 €"
+    },
+    {
+        "znamka": "Yamaha xjr 1300 ",
+        "leto": "2006",
+        "kilometri": "128000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.600 €"
+    },
+    {
+        "znamka": "Kymco RF ZING 125",
+        "leto": "1999",
+        "kilometri": "2045 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "BMW k1200gt",
+        "leto": "2006",
+        "kilometri": "107000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.300 €"
+    },
+    {
+        "znamka": "Triumph speedmaster",
+        "leto": "2009",
+        "kilometri": "14150 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.000 €"
+    },
+    {
+        "znamka": "Kawasaki Z750S",
+        "leto": "2005",
+        "kilometri": "48750 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "Ducati Monster 821",
+        "leto": "2018",
+        "kilometri": "10182 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.990 €"
+    },
+    {
+        "znamka": "Hyosung Aquila 250",
+        "leto": "2001",
+        "kilometri": "39000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.000 €"
+    },
+    {
+        "znamka": "Honda Cbr600",
+        "leto": "2008",
+        "kilometri": "6 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "Yamaha TZR 50",
+        "leto": "2005",
+        "kilometri": "21000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "790 €"
+    },
+    {
+        "znamka": "Honda Xlr 125",
+        "leto": "1999",
+        "kilometri": "55000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "Cagiva Mito",
+        "leto": "1995",
+        "kilometri": "350 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "450 €"
+    },
+    {
+        "znamka": "Tomos sm 125 f replica cup",
+        "leto": "2009",
+        "kilometri": "17000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "KTM 450",
+        "leto": "2019",
+        "kilometri": "78 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.300 €"
+    },
+    {
+        "znamka": "Aprilia Rsv100 rr factory",
+        "leto": "2006",
+        "kilometri": "27000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Yamaha yz125",
+        "leto": "2003",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Yamaha YZ250",
+        "leto": "2010",
+        "kilometri": "10 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.400 €"
+    },
+    {
+        "znamka": "Suzuki V strom 650 DL",
+        "leto": "2018",
+        "kilometri": "17123 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.500 €"
+    },
+    {
+        "znamka": "YCF 50 A JUNIOR",
+        "leto": "2021",
+        "kilometri": "5 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "1.000 €"
+    },
+    {
+        "znamka": "MotoGuzzi CALIFORNIA 1100 EV",
+        "leto": "2003",
+        "kilometri": "69600 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Honda CBF1000",
+        "leto": "2009",
+        "kilometri": "97000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.600 €"
+    },
+    {
+        "znamka": "Yamaha Mt09",
+        "leto": "2018",
+        "kilometri": "14850 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.650 €"
+    },
+    {
+        "znamka": "Yamaha WR 125 X",
+        "leto": "2014",
+        "kilometri": "29000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "BMW k 1600 GT",
+        "leto": "2014",
+        "kilometri": "53500 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "12.800 €"
+    },
+    {
+        "znamka": "Honda Vtr 1000",
+        "leto": "1998",
+        "kilometri": "61000 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "1.500 €"
+    },
+    {
+        "znamka": "Yamaha Fz6s",
+        "leto": "2006",
+        "kilometri": "43000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.700 €"
+    },
+    {
+        "znamka": "BMW F 700 GS beri opombe",
+        "leto": "2014",
+        "kilometri": "32923 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.800 €"
+    },
+    {
+        "znamka": "Yamaha FZ6-S Fazer ",
+        "leto": "2007",
+        "kilometri": "61000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Suzuki GSX 1250FA",
+        "leto": "2014",
+        "kilometri": "50000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.800 €"
+    },
+    {
+        "znamka": "Yamaha mt 125",
+        "leto": "2018",
+        "kilometri": "9417 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.850 €"
+    },
+    {
+        "znamka": "Husqvarna FC 450",
+        "leto": "2020",
+        "kilometri": "73 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.600 €"
+    },
+    {
+        "znamka": "KTM Sxf 250",
+        "leto": "2018",
+        "kilometri": "30 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.250 €"
+    },
+    {
+        "znamka": "Husqvarna Te300i",
+        "leto": "2018",
+        "kilometri": "219 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.000 €"
+    },
+    {
+        "znamka": "Yamaha MT-09",
+        "leto": "2014",
+        "kilometri": "13000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "KTM SMC 660",
+        "leto": "2005",
+        "kilometri": "31000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "Honda CRF450R",
+        "leto": "2017",
+        "kilometri": "185 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "BMW S1000XR",
+        "leto": "2020",
+        "kilometri": "10300 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "17.200 €"
+    },
+    {
+        "znamka": "Yamaha FZS 1000",
+        "leto": "2003",
+        "kilometri": "71 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.600 €"
+    },
+    {
+        "znamka": "Yamaha 2018",
+        "leto": "2018",
+        "kilometri": "78 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.700 €"
+    },
+    {
+        "znamka": "BMW F 650 GS",
+        "leto": "2011",
+        "kilometri": "73000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.400 €"
+    },
+    {
+        "znamka": "Honda CRF450r",
+        "leto": "2014",
+        "kilometri": "15993 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Honda Cbf 1000 abs",
+        "leto": "2007",
+        "kilometri": "60309 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "MotoGuzzi CALIFORNIA TITANIUM 1064 KDC12",
+        "leto": "2006",
+        "kilometri": "49243 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.990 €"
+    },
+    {
+        "znamka": "Gilera Dna",
+        "leto": "2004",
+        "kilometri": "505 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "800 €"
+    },
+    {
+        "znamka": "Suzuki SV650 35KW",
+        "leto": "2007",
+        "kilometri": "35000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Kawasaki ZX6RR",
+        "leto": "2012",
+        "kilometri": "18900 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.800 €"
+    },
+    {
+        "znamka": "BMW K 1600 GT posebna izdaja 719",
+        "leto": "2018",
+        "kilometri": "54672 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "16.800 €"
+    },
+    {
+        "znamka": "Yamaha XVZ 1300 VENTURE ",
+        "leto": "2010",
+        "kilometri": "56871 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.800 €"
+    },
+    {
+        "znamka": "KTM 250 SX-F",
+        "leto": "2013",
+        "kilometri": "104 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Aprilia etv 1000 caponord",
+        "leto": "2003",
+        "kilometri": "73000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "Aprilia rsv4 R",
+        "leto": "2013",
+        "kilometri": "17700 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.800 €"
+    },
+    {
+        "znamka": "Honda Cbf 1000",
+        "leto": "2009",
+        "kilometri": "54297 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.300 €"
+    },
+    {
+        "znamka": "Honda cbr 600 FS",
+        "leto": "2002",
+        "kilometri": "38000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "Honda CB125F",
+        "leto": "2019",
+        "kilometri": "8200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Aprilia 125",
+        "leto": "1923",
+        "kilometri": "201 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "550 €"
+    },
+    {
+        "znamka": "Yamaha DT 50",
+        "leto": "2002",
+        "kilometri": "5000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "900 €"
+    },
+    {
+        "znamka": "Suzuki vs 700 intruder",
+        "leto": "1986",
+        "kilometri": "26000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.050 €"
+    },
+    {
+        "znamka": "Kawasaki kxf 450 ",
+        "leto": "2014",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.770 €"
+    },
+    {
+        "znamka": "Yamaha TDM 900",
+        "leto": "2003",
+        "kilometri": "116757 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.850 €"
+    },
+    {
+        "znamka": "BMW R 1100 GS",
+        "leto": "2000",
+        "kilometri": "130000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "BMW K1200LT",
+        "leto": "1999",
+        "kilometri": "87400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Suzuki GSF 1200 Bandit",
+        "leto": "2003",
+        "kilometri": "43200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Suzuki GSX 650 FA",
+        "leto": "2013",
+        "kilometri": "46950 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Kawasaki 636 25 klw",
+        "leto": "2003",
+        "kilometri": "70500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Suzuki Bandit 1200 S",
+        "leto": "2002",
+        "kilometri": "78000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.890 €"
+    },
+    {
+        "znamka": "Honda CBF 600 SA",
+        "leto": "2009",
+        "kilometri": "44500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "BMW GS 700",
+        "leto": "2013",
+        "kilometri": "15000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.500 €"
+    },
+    {
+        "znamka": "Yamaha XJ6n",
+        "leto": "2012",
+        "kilometri": "31000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.980 €"
+    },
+    {
+        "znamka": "Suzuki SV 650s",
+        "leto": "2005",
+        "kilometri": "101000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "Yamaha MT-07",
+        "leto": "2019",
+        "kilometri": "3000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.500 €"
+    },
+    {
+        "znamka": "Honda CBF 1000 FA..ABS..PERLA BELA..ODLIČNA..",
+        "leto": "2010",
+        "kilometri": "70000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.690 €"
+    },
+    {
+        "znamka": "Honda Hornet 600",
+        "leto": "2001",
+        "kilometri": "22000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Stomp Z3 140 Big Wheel 14 17",
+        "leto": "2020",
+        "kilometri": "156 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.990 €"
+    },
+    {
+        "znamka": "Kawasaki ",
+        "leto": "1997",
+        "kilometri": "83654 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "700 €"
+    },
+    {
+        "znamka": "BMW R 1200 rt",
+        "leto": "2010",
+        "kilometri": "130000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.200 €"
+    },
+    {
+        "znamka": "Suzuki GSF 1200 S Bandit",
+        "leto": "2006",
+        "kilometri": "46567 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.990 €"
+    },
+    {
+        "znamka": "Yamaha Twin 900 TDM",
+        "leto": "2022",
+        "kilometri": "48700 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "Yamaha Yz125",
+        "leto": "2018",
+        "kilometri": "175 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.100 €"
+    },
+    {
+        "znamka": "Honda 250crf ",
+        "leto": "2018",
+        "kilometri": "98 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.400 €"
+    },
+    {
+        "znamka": "Kawasaki VERSYS 650 ",
+        "leto": "2009",
+        "kilometri": "41000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.490 €"
+    },
+    {
+        "znamka": "Yamaha Fazer 800 ABS",
+        "leto": "2011",
+        "kilometri": "40000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.350 €"
+    },
+    {
+        "znamka": "Kawasaki Versys",
+        "leto": "2018",
+        "kilometri": "41816 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "10.500 €"
+    },
+    {
+        "znamka": "BMW R 1100 S",
+        "leto": "2003",
+        "kilometri": "73000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Honda cbr 600 valentino rossi",
+        "leto": "2002",
+        "kilometri": "54950 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "Yamaha fjr 1300a",
+        "leto": "2007",
+        "kilometri": "160000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.990 €"
+    },
+    {
+        "znamka": "Yamaha YZF450",
+        "leto": "2017",
+        "kilometri": "1800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "KTM Sxf 250",
+        "leto": "2015",
+        "kilometri": "250 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.333 €"
+    },
+    {
+        "znamka": "MZ ETZ 250",
+        "leto": "1986",
+        "kilometri": "357 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.700 €"
+    },
+    {
+        "znamka": "BMW G310R",
+        "leto": "2020",
+        "kilometri": "4800 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Suzuki dl1000 v-strom",
+        "leto": "2005",
+        "kilometri": "75462 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.950 €"
+    },
+    {
+        "znamka": "KTM Sx",
+        "leto": "2003",
+        "kilometri": "23 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "Yamaha Virago 535",
+        "leto": "1999",
+        "kilometri": "40000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Husqvarna Fc 250",
+        "leto": "2020",
+        "kilometri": "172 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.400 €"
+    },
+    {
+        "znamka": "BMW K1200LT Chrom paket ",
+        "leto": "2001",
+        "kilometri": "136000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.990 €"
+    },
+    {
+        "znamka": "Kawasaki ZZR250",
+        "leto": "1999",
+        "kilometri": "26022 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.200 €"
+    },
+    {
+        "znamka": "KTM exc",
+        "leto": "2017",
+        "kilometri": "270 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.800 €"
+    },
+    {
+        "znamka": "Aprilia RS 70kit",
+        "leto": "2003",
+        "kilometri": "347294 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.000 €"
+    },
+    {
+        "znamka": "Honda Gold Wing 1800 Airbag. Navigacija.Kot nova. ",
+        "leto": "2008",
+        "kilometri": "69000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "15.500 €"
+    },
+    {
+        "znamka": "KTM Exc 300",
+        "leto": "2013",
+        "kilometri": "1 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.490 €"
+    },
+    {
+        "znamka": "Suzuki SV 650",
+        "leto": "2019",
+        "kilometri": "2660 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.200 €"
+    },
+    {
+        "znamka": "BMW K1600GT",
+        "leto": "2017",
+        "kilometri": "9500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.250 €"
+    },
+    {
+        "znamka": "Kawasaki kxf 250",
+        "leto": "2014",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "MotoGuzzi LE MANS 2",
+        "leto": "1980",
+        "kilometri": "43000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.400 €"
+    },
+    {
+        "znamka": "BMW Gs 700 ",
+        "leto": "2013",
+        "kilometri": "52000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.700 €"
+    },
+    {
+        "znamka": "BMW GS 1250",
+        "leto": "2020",
+        "kilometri": "5436 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "18.900 €"
+    },
+    {
+        "znamka": "Yamaha YZ250F",
+        "leto": "2016",
+        "kilometri": "96 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.700 €"
+    },
+    {
+        "znamka": "BMW 100 gs",
+        "leto": "1991",
+        "kilometri": "30000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.200 €"
+    },
+    {
+        "znamka": "KTM sx 125",
+        "leto": "1998",
+        "kilometri": "59300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.490 €"
+    },
+    {
+        "znamka": "BMW R1200RT ABS  R 1200 RT",
+        "leto": "2007",
+        "kilometri": "67100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.990 €"
+    },
+    {
+        "znamka": "KTM 450 EXC  EFI-C  HOMOLOGIRAN",
+        "leto": "2015",
+        "kilometri": "295 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.990 €"
+    },
+    {
+        "znamka": "BMW F800R ABS F 800 R",
+        "leto": "2010",
+        "kilometri": "34300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.550 €"
+    },
+    {
+        "znamka": "Kawasaki Z 800",
+        "leto": "2014",
+        "kilometri": "16500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.500 €"
+    },
+    {
+        "znamka": "Kawasaki Z 800 ",
+        "leto": "2016",
+        "kilometri": "6500 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.250 €"
+    },
+    {
+        "znamka": "MotoGuzzi V65SP",
+        "leto": "1983",
+        "kilometri": "50000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.800 €"
+    },
+    {
+        "znamka": "Honda F6B GoldWing",
+        "leto": "2015",
+        "kilometri": "35800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "17.000 €"
+    },
+    {
+        "znamka": "Harley-Davidson RoadKing FLHR",
+        "leto": "2009",
+        "kilometri": "43000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "15.000 €"
+    },
+    {
+        "znamka": "KTM sx",
+        "leto": "2019",
+        "kilometri": "10100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "700 €"
+    },
+    {
+        "znamka": "Tomos APN 4",
+        "leto": "1977",
+        "kilometri": "52000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "BMW r1200r",
+        "leto": "2008",
+        "kilometri": "100000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.000 €"
+    },
+    {
+        "znamka": "Xmotos XB-33",
+        "leto": "2008",
+        "kilometri": "610 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.900 €"
+    },
+    {
+        "znamka": "MV Agusta Brutale 1000 serie oro 155 300",
+        "leto": "2020",
+        "kilometri": "2725 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "38.500 €"
+    },
+    {
+        "znamka": "KTM EXC 250 F",
+        "leto": "2008",
+        "kilometri": "300 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.300 €"
+    },
+    {
+        "znamka": "Yamaha Yz 250f",
+        "leto": "2013",
+        "kilometri": "33 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.250 €"
+    },
+    {
+        "znamka": "BMW 1200 GSa",
+        "leto": "2016",
+        "kilometri": "32200 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "16.200 €"
+    },
+    {
+        "znamka": "BMW F 800 GS ABS f800gs",
+        "leto": "2011",
+        "kilometri": "69994 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.390 €"
+    },
+    {
+        "znamka": "BMW R1200GS Adventure",
+        "leto": "2008",
+        "kilometri": "110000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.100 €"
+    },
+    {
+        "znamka": "Xmotos Lifan",
+        "leto": "2015",
+        "kilometri": "100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "100 €"
+    },
+    {
+        "znamka": "Yamaha TZR",
+        "leto": "2005",
+        "kilometri": "50000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.500 €"
+    },
+    {
+        "znamka": "Suzuki bandit 1200",
+        "leto": "1997",
+        "kilometri": "88000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.600 €"
+    },
+    {
+        "znamka": "Kawasaki Kx-f 250",
+        "leto": "2008",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.600 €"
+    },
+    {
+        "znamka": "Suzuki Gsr750 vozen z A2 35kw",
+        "leto": "2013",
+        "kilometri": "30000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "YCF START F125S 2019",
+        "leto": "2019",
+        "kilometri": "13900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.200 €"
+    },
+    {
+        "znamka": "Yamaha Yz 125",
+        "leto": "2000",
+        "kilometri": "2 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.780 €"
+    },
+    {
+        "znamka": "KTM 450 SX-F",
+        "leto": "2007",
+        "kilometri": "5600 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.000 €"
+    },
+    {
+        "znamka": "Yamaha Yzf 426",
+        "leto": "2000",
+        "kilometri": "40900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.200 €"
+    },
+    {
+        "znamka": "Stomp z3-140",
+        "leto": "2020",
+        "kilometri": "16722 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.300 €"
+    },
+    {
+        "znamka": "Aprilia TUONO",
+        "leto": "2007",
+        "kilometri": "46000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.600 €"
+    },
+    {
+        "znamka": "Dream Pitbikes 150 yx",
+        "leto": "2017",
+        "kilometri": "40 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "950 €"
+    },
+    {
+        "znamka": "Harley-Davidson Heritage Softail",
+        "leto": "2007",
+        "kilometri": "10500 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "19.800 €"
+    },
+    {
+        "znamka": "Yamaha Yz 450f",
+        "leto": "2008",
+        "kilometri": "37000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.400 €"
+    },
+    {
+        "znamka": "KTM GasGas EC300 2t",
+        "leto": "2009",
+        "kilometri": "80 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.990 €"
+    },
+    {
+        "znamka": "BMW BMW R 1200 GS",
+        "leto": "2007",
+        "kilometri": "110000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.200 €"
+    },
+    {
+        "znamka": "KTM duke",
+        "leto": "2013",
+        "kilometri": "33500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "MotoGuzzi Nevada 750",
+        "leto": "2003",
+        "kilometri": "64000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.300 €"
+    },
+    {
+        "znamka": "Husqvarna TE300 TE 300",
+        "leto": "2018",
+        "kilometri": "80 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.999 €"
+    },
+    {
+        "znamka": "BMW R 1200 GS",
+        "leto": "2011",
+        "kilometri": "90000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "9.600 €"
+    },
+    {
+        "znamka": "MZ etz 250",
+        "leto": "1987",
+        "kilometri": "45000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.250 €"
+    },
+    {
+        "znamka": "Honda cbr 125 r",
+        "leto": "2014",
+        "kilometri": "34000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.150 €"
+    },
+    {
+        "znamka": "KTM sx 85",
+        "leto": "2015",
+        "kilometri": "16359 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "700 €"
+    },
+    {
+        "znamka": "Harley-Davidson STREET GLIDE CVO",
+        "leto": "2018",
+        "kilometri": "26000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "33.500 €"
+    },
+    {
+        "znamka": "Triumph 900",
+        "leto": "2017",
+        "kilometri": "8500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.990 €"
+    },
+    {
+        "znamka": "KTM Exc 350f",
+        "leto": "2017",
+        "kilometri": "227 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.950 €"
+    },
+    {
+        "znamka": "Ducati 620 Sport Nuda Carenata",
+        "leto": "2003",
+        "kilometri": "20850 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.490 €"
+    },
+    {
+        "znamka": "Suzuki Rmz 450",
+        "leto": "2016",
+        "kilometri": "100 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.350 €"
+    },
+    {
+        "znamka": "Husqvarna FC250",
+        "leto": "2019",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.370 €"
+    },
+    {
+        "znamka": "BMW F650GS F 650 GS",
+        "leto": "2007",
+        "kilometri": "23629 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.250 €"
+    },
+    {
+        "znamka": "Kawasaki Z650 Z 650",
+        "leto": "2020",
+        "kilometri": "14927 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.990 €"
+    },
+    {
+        "znamka": "Husqvarna TC 250",
+        "leto": "2010",
+        "kilometri": "180 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.400 €"
+    },
+    {
+        "znamka": "Yamaha Yz 85",
+        "leto": "2009",
+        "kilometri": "68 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.600 €"
+    },
+    {
+        "znamka": "Husqvarna ",
+        "leto": "1998",
+        "kilometri": "100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.500 €"
+    },
+    {
+        "znamka": "Ducati SUPERSPORT 1000",
+        "leto": "2004",
+        "kilometri": "18500 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.999 €"
+    },
+    {
+        "znamka": "Yamaha Fz6s Fazer",
+        "leto": "2004",
+        "kilometri": "66000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "Kawasaki ",
+        "leto": "2004",
+        "kilometri": "60000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Aprilia TUONO V4 1100 RR",
+        "leto": "2015",
+        "kilometri": "23882 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "9.000 €"
+    },
+    {
+        "znamka": "Husqvarna fc250",
+        "leto": "2015",
+        "kilometri": "20 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.900 €"
+    },
+    {
+        "znamka": "KTM 300 exc ",
+        "leto": "2009",
+        "kilometri": "5000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.990 €"
+    },
+    {
+        "znamka": "Yamaha Mt125",
+        "leto": "2015",
+        "kilometri": "40000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "Honda africa",
+        "leto": "1998",
+        "kilometri": "68000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "KTM Exc 300 Six Days",
+        "leto": "2010",
+        "kilometri": "190 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.300 €"
+    },
+    {
+        "znamka": "Ducati PANIGALE V4 - SUPER PONUDBA",
+        "leto": "2020",
+        "kilometri": "4339 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "17.990 €"
+    },
+    {
+        "znamka": "Ducati PANIGALE V4 S - SUPER PONUDBA",
+        "leto": "2018",
+        "kilometri": "9954 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "18.490 €"
+    },
+    {
+        "znamka": "Aprilia sx",
+        "leto": "2007",
+        "kilometri": "77500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.800 €"
+    },
+    {
+        "znamka": "Suzuki RMZ 450",
+        "leto": "2012",
+        "kilometri": "50 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.650 €"
+    },
+    {
+        "znamka": "Honda CRF 450",
+        "leto": "2008",
+        "kilometri": "50 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "BMW S1000RR",
+        "leto": "2013",
+        "kilometri": "43000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.000 €"
+    },
+    {
+        "znamka": "Kawasaki KX 500 ",
+        "leto": "1986",
+        "kilometri": "9999 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Honda 125",
+        "leto": "2010",
+        "kilometri": "25000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.200 €"
+    },
+    {
+        "znamka": "Yamaha XT 350",
+        "leto": "1993",
+        "kilometri": "27350 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.490 €"
+    },
+    {
+        "znamka": "Aprilia Tuono V4 aprc",
+        "leto": "2011",
+        "kilometri": "32000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "6.999 €"
+    },
+    {
+        "znamka": "Honda CRF450",
+        "leto": "2016",
+        "kilometri": "67 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.400 €"
+    },
+    {
+        "znamka": "Aprilia Falco 1000",
+        "leto": "2001",
+        "kilometri": "60000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.750 €"
+    },
+    {
+        "znamka": "Beta 300 RR",
+        "leto": "2016",
+        "kilometri": "50000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.100 €"
+    },
+    {
+        "znamka": "MV Agusta BRUTALE 800",
+        "leto": "2014",
+        "kilometri": "27900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.999 €"
+    },
+    {
+        "znamka": "Yamaha FZ6",
+        "leto": "2007",
+        "kilometri": "29000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.600 €"
+    },
+    {
+        "znamka": "Kawasaki VN900 classic",
+        "leto": "2014",
+        "kilometri": "33400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.200 €"
+    },
+    {
+        "znamka": "Husqvarna fc 450 z racunom",
+        "leto": "2017",
+        "kilometri": "80 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.899 €"
+    },
+    {
+        "znamka": "Suzuki Rmz",
+        "leto": "2010",
+        "kilometri": "50054 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.100 €"
+    },
+    {
+        "znamka": "Kawasaki ER6N",
+        "leto": "2006",
+        "kilometri": "56000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.390 €"
+    },
+    {
+        "znamka": "Harley-Davidson Electra glide",
+        "leto": "1990",
+        "kilometri": "33000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "14.000 €"
+    },
+    {
+        "znamka": "BMW F800R",
+        "leto": "2012",
+        "kilometri": "55300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.800 €"
+    },
+    {
+        "znamka": "KTM SX 85",
+        "leto": "2021",
+        "kilometri": "72 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.700 €"
+    },
+    {
+        "znamka": "KTM SX 50",
+        "leto": "2020",
+        "kilometri": "100 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "2.400 €"
+    },
+    {
+        "znamka": "Honda CBF 1000",
+        "leto": "2010",
+        "kilometri": "27000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.550 €"
+    },
+    {
+        "znamka": "KTM 640",
+        "leto": "2005",
+        "kilometri": "30000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Yamaha XT 500",
+        "leto": "1982",
+        "kilometri": "27314 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "Yamaha Virago 750",
+        "leto": "1994",
+        "kilometri": "78000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "BMW R 18 Classic First Edition",
+        "leto": "2021",
+        "kilometri": "4024 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "23.900 €"
+    },
+    {
+        "znamka": "Husqvarna FC 250",
+        "leto": "2016",
+        "kilometri": "10 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.050 €"
+    },
+    {
+        "znamka": "Husqvarna TC 85",
+        "leto": "2017",
+        "kilometri": "4 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "KTM SX 65",
+        "leto": "2021",
+        "kilometri": "11 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.700 €"
+    },
+    {
+        "znamka": "Honda CBR 1000 RR",
+        "leto": "2011",
+        "kilometri": "53500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.200 €"
+    },
+    {
+        "znamka": "Honda CRF250R",
+        "leto": "2017",
+        "kilometri": "130 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.900 €"
+    },
+    {
+        "znamka": "Kawasaki KLX250S",
+        "leto": "2016",
+        "kilometri": "1310 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.200 €"
+    },
+    {
+        "znamka": "Kawasaki 1400 GTR ABS KTRC K-ACT 3x kovčki lep 1400GTR",
+        "leto": "2016",
+        "kilometri": "56326 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.490 €"
+    },
+    {
+        "znamka": "Kawasaki z650 A2",
+        "leto": "1982",
+        "kilometri": "58120 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Suzuki gsxr 750w",
+        "leto": "1993",
+        "kilometri": "42527 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.600 €"
+    },
+    {
+        "znamka": "Yamaha 125 DT",
+        "leto": "1982",
+        "kilometri": "30000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "990 €"
+    },
+    {
+        "znamka": "Yamaha YZF 250",
+        "leto": "2021",
+        "kilometri": "56 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.000 €"
+    },
+    {
+        "znamka": "Husqvarna FE 250",
+        "leto": "2018",
+        "kilometri": "120 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.850 €"
+    },
+    {
+        "znamka": "Aprilia Pegaso ie",
+        "leto": "2001",
+        "kilometri": "21300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.450 €"
+    },
+    {
+        "znamka": "Yamaha yz85",
+        "leto": "2007",
+        "kilometri": "150 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.500 €"
+    },
+    {
+        "znamka": "Benelli TRK 502 Abs Garancija A2",
+        "leto": "2019",
+        "kilometri": "9120 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.450 €"
+    },
+    {
+        "znamka": "BMW R 1200 GS ABS ASC R1200GS",
+        "leto": "2014",
+        "kilometri": "57353 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.990 €"
+    },
+    {
+        "znamka": "Honda CB 600 F Hornet",
+        "leto": "2008",
+        "kilometri": "39000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Honda Cb600f hornet",
+        "leto": "2009",
+        "kilometri": "40385 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.676 €"
+    },
+    {
+        "znamka": "Suzuki GSX R",
+        "leto": "2007",
+        "kilometri": "60000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.800 €"
+    },
+    {
+        "znamka": "Aprilia Tuono V4R APRC - ABS",
+        "leto": "2014",
+        "kilometri": "37500 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "8.100 €"
+    },
+    {
+        "znamka": "Suzuki Rm 85",
+        "leto": "2010",
+        "kilometri": "65 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.690 €"
+    },
+    {
+        "znamka": "BMW F 800 r ",
+        "leto": "2009",
+        "kilometri": "43333 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.600 €"
+    },
+    {
+        "znamka": "Daelim 125cm",
+        "leto": "2000",
+        "kilometri": "17000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "750 €"
+    },
+    {
+        "znamka": "Yamaha ttr110",
+        "leto": "2018",
+        "kilometri": "3 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "2.600 €"
+    },
+    {
+        "znamka": "Kawasaki Kxf 250",
+        "leto": "2017",
+        "kilometri": "202 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.800 €"
+    },
+    {
+        "znamka": "BMW K1200S",
+        "leto": "2007",
+        "kilometri": "92000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.700 €"
+    },
+    {
+        "znamka": "Suzuki Gsr 600",
+        "leto": "2007",
+        "kilometri": "65500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "KTM SX 65",
+        "leto": "2021",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.590 €"
+    },
+    {
+        "znamka": "Aprilia RX50",
+        "leto": "2018",
+        "kilometri": "9400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.350 €"
+    },
+    {
+        "znamka": "BMW R 1150 RT beri opombe",
+        "leto": "2002",
+        "kilometri": "98214 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.200 €"
+    },
+    {
+        "znamka": "BMW GS 1200 ADVENTURE",
+        "leto": "2015",
+        "kilometri": "79500 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "13.800 €"
+    },
+    {
+        "znamka": "Yamaha R6-35kw",
+        "leto": "2007",
+        "kilometri": "27500 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Husqvarna Fc250",
+        "leto": "2016",
+        "kilometri": "60 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Yamaha Tzr 50",
+        "leto": "2005",
+        "kilometri": "28 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.999 €"
+    },
+    {
+        "znamka": "Ducati MULTISTRADA V4 S FULL 2021. GAR. DO APRILA 2025",
+        "leto": "2021",
+        "kilometri": "20900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "21.990 €"
+    },
+    {
+        "znamka": "Ducati MONSTER + 2021",
+        "leto": "2021",
+        "kilometri": "48000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "KTM SX 85",
+        "leto": "2007",
+        "kilometri": "90 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Yamaha YZ250F",
+        "leto": "2014",
+        "kilometri": "88 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "BMW RT1200 R",
+        "leto": "2013",
+        "kilometri": "35352 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.800 €"
+    },
+    {
+        "znamka": "KTM Duke 2",
+        "leto": "2005",
+        "kilometri": "39700 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.150 €"
+    },
+    {
+        "znamka": "Honda CRF 450 AKRAPOVIČ ",
+        "leto": "2011",
+        "kilometri": "50 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.275 €"
+    },
+    {
+        "znamka": "KTM Sxf 250",
+        "leto": "2020",
+        "kilometri": "49200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.200 €"
+    },
+    {
+        "znamka": "Kawasaki ZX10R",
+        "leto": "2006",
+        "kilometri": "23000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.500 €"
+    },
+    {
+        "znamka": "Honda ",
+        "leto": "2016",
+        "kilometri": "100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Honda CBR 1000 RR PISTA",
+        "leto": "2008",
+        "kilometri": "37000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "4.900 €"
+    },
+    {
+        "znamka": "KTM Sx-f 450",
+        "leto": "2020",
+        "kilometri": "28000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "16.100 €"
+    },
+    {
+        "znamka": "Ducati Multistrada 1200s",
+        "leto": "2013",
+        "kilometri": "74000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.900 €"
+    },
+    {
+        "znamka": "Yamaha Tracer",
+        "leto": "2015",
+        "kilometri": "28000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.800 €"
+    },
+    {
+        "znamka": "Honda Shadow 750",
+        "leto": "1988",
+        "kilometri": "53000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Harley-Davidson 103 - Low Rider",
+        "leto": "2015",
+        "kilometri": "27000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "15.700 €"
+    },
+    {
+        "znamka": "Yamaha ",
+        "leto": "2005",
+        "kilometri": "87000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "3.700 €"
+    },
+    {
+        "znamka": "Honda Hornet",
+        "leto": "2007",
+        "kilometri": "42000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.150 €"
+    },
+    {
+        "znamka": "Honda NC 750 X",
+        "leto": "2018",
+        "kilometri": "35896 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.600 €"
+    },
+    {
+        "znamka": "BMW K1200 LT",
+        "leto": "2003",
+        "kilometri": "125000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "BMW R1200RT",
+        "leto": "2007",
+        "kilometri": "139000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.800 €"
+    },
+    {
+        "znamka": "Aprilia 650 Trail",
+        "leto": "2006",
+        "kilometri": "23000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.750 €"
+    },
+    {
+        "znamka": "YCF dream pitbike 160",
+        "leto": "2011",
+        "kilometri": "140 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "700 €"
+    },
+    {
+        "znamka": "Yamaha XT 600",
+        "leto": "2003",
+        "kilometri": "52000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.600 €"
+    },
+    {
+        "znamka": "KTM ",
+        "leto": "2009",
+        "kilometri": "40 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.950 €"
+    },
+    {
+        "znamka": "BMW S 1000r",
+        "leto": "2017",
+        "kilometri": "25000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "11.200 €"
+    },
+    {
+        "znamka": "Honda Crf 450",
+        "leto": "2011",
+        "kilometri": "300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.350 €"
+    },
+    {
+        "znamka": "Husqvarna Fe250",
+        "leto": "2019",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.600 €"
+    },
+    {
+        "znamka": "Honda CRF 250 R",
+        "leto": "2013",
+        "kilometri": "230 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.900 €"
+    },
+    {
+        "znamka": "Honda Crf450",
+        "leto": "2018",
+        "kilometri": "7 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.999 €"
+    },
+    {
+        "znamka": "Honda ",
+        "leto": "2006",
+        "kilometri": "43000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "BMW S1000XR",
+        "leto": "2021",
+        "kilometri": "19763 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "19.490 €"
+    },
+    {
+        "znamka": "Yamaha 450",
+        "leto": "2017",
+        "kilometri": "65 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "MotoGuzzi Stelvio ",
+        "leto": "2011",
+        "kilometri": "53850 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.800 €"
+    },
+    {
+        "znamka": "Yamaha Fazer",
+        "leto": "2004",
+        "kilometri": "50700 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.800 €"
+    },
+    {
+        "znamka": "Honda CRF 125FB TTR-125 ",
+        "leto": "2020",
+        "kilometri": "30 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.850 €"
+    },
+    {
+        "znamka": "Honda Shadow 750 VT C ABS",
+        "leto": "2011",
+        "kilometri": "18200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.100 €"
+    },
+    {
+        "znamka": "BMW ",
+        "leto": "2015",
+        "kilometri": "56549 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "14.400 €"
+    },
+    {
+        "znamka": "MotoGuzzi griso 1200",
+        "leto": "2012",
+        "kilometri": "7078 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.000 €"
+    },
+    {
+        "znamka": "Honda Cbf 600",
+        "leto": "2006",
+        "kilometri": "41000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Kawasaki ",
+        "leto": "2004",
+        "kilometri": "190 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.300 €"
+    },
+    {
+        "znamka": "BMW R 1150 RT",
+        "leto": "2004",
+        "kilometri": "120600 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.990 €"
+    },
+    {
+        "znamka": "Honda VT 750 Shadow",
+        "leto": "2005",
+        "kilometri": "56000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Kawasaki Z 1000",
+        "leto": "2004",
+        "kilometri": "47000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.650 €"
+    },
+    {
+        "znamka": "Yamaha Yamaha yzf 250",
+        "leto": "2019",
+        "kilometri": "50 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.800 €"
+    },
+    {
+        "znamka": "BMW F 800S",
+        "leto": "2007",
+        "kilometri": "1 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.450 €"
+    },
+    {
+        "znamka": "Husqvarna fc 250",
+        "leto": "2018",
+        "kilometri": "166 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.200 €"
+    },
+    {
+        "znamka": "Honda Varadero ",
+        "leto": "2011",
+        "kilometri": "50000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.100 €"
+    },
+    {
+        "znamka": "Harley-Davidson FLHX Street Glide",
+        "leto": "2007",
+        "kilometri": "62000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "12.500 €"
+    },
+    {
+        "znamka": "Hyosung gt 650",
+        "leto": "2006",
+        "kilometri": "15000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.850 €"
+    },
+    {
+        "znamka": "Kawasaki Er6n",
+        "leto": "2006",
+        "kilometri": "90000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "Yamaha TDM 900 TWIN",
+        "leto": "2011",
+        "kilometri": "83000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.200 €"
+    },
+    {
+        "znamka": "BMW Gs 650 mozna menjava",
+        "leto": "2004",
+        "kilometri": "63000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.560 €"
+    },
+    {
+        "znamka": "Yamaha FZS 600 Fazer + prtljažni kovček",
+        "leto": "2002",
+        "kilometri": "48000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "Harley-Davidson Softail custom fxstc",
+        "leto": "2007",
+        "kilometri": "22000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.500 €"
+    },
+    {
+        "znamka": "BMW R 1200 GS ADVENTURE",
+        "leto": "2010",
+        "kilometri": "76000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.790 €"
+    },
+    {
+        "znamka": "Kawasaki Z 1000 ",
+        "leto": "2005",
+        "kilometri": "44200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "Yamaha 350",
+        "leto": "1970",
+        "kilometri": "45600 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.700 €"
+    },
+    {
+        "znamka": "BMW GS 1200",
+        "leto": "2015",
+        "kilometri": "52100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "12.990 €"
+    },
+    {
+        "znamka": "Kawasaki z750",
+        "leto": "2011",
+        "kilometri": "45477 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Husqvarna FC 250",
+        "leto": "2020",
+        "kilometri": "2 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.499 €"
+    },
+    {
+        "znamka": "Zongshen Loncin 125ccm",
+        "leto": "2017",
+        "kilometri": "124 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "320 €"
+    },
+    {
+        "znamka": "Yamaha YZ250F",
+        "leto": "2020",
+        "kilometri": "68 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.700 €"
+    },
+    {
+        "znamka": "Yamaha XSR 700",
+        "leto": "2018",
+        "kilometri": "13565 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.250 €"
+    },
+    {
+        "znamka": "Yamaha Fazer",
+        "leto": "2006",
+        "kilometri": "39538 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "Yamaha yzf 450",
+        "leto": "2017",
+        "kilometri": "44 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.450 €"
+    },
+    {
+        "znamka": "KTM SXF 350",
+        "leto": "2018",
+        "kilometri": "17 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.700 €"
+    },
+    {
+        "znamka": "Yamaha YZ 85",
+        "leto": "2018",
+        "kilometri": "40 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.450 €"
+    },
+    {
+        "znamka": "KTM SX 125",
+        "leto": "2019",
+        "kilometri": "5 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.250 €"
+    },
+    {
+        "znamka": "Kawasaki Versys 1000 ogromno opreme",
+        "leto": "2013",
+        "kilometri": "28250 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.500 €"
+    },
+    {
+        "znamka": "Husqvarna TC 85",
+        "leto": "2019",
+        "kilometri": "30 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "Kawasaki Z 800",
+        "leto": "2015",
+        "kilometri": "26142 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.950 €"
+    },
+    {
+        "znamka": "Suzuki GSR 600",
+        "leto": "2006",
+        "kilometri": "34900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.490 €"
+    },
+    {
+        "znamka": "Yamaha YZF R-125",
+        "leto": "2011",
+        "kilometri": "29600 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "BMW gsa1200",
+        "leto": "2008",
+        "kilometri": "112000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.100 €"
+    },
+    {
+        "znamka": "Yamaha TRACER 900 GT",
+        "leto": "2019",
+        "kilometri": "10000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "12.800 €"
+    },
+    {
+        "znamka": "Yamaha R1 streetfighter",
+        "leto": "2003",
+        "kilometri": "38700 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.890 €"
+    },
+    {
+        "znamka": "Kawasaki Z 900 Performance",
+        "leto": "2020",
+        "kilometri": "5090 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.900 €"
+    },
+    {
+        "znamka": "Yamaha YS 125",
+        "leto": "2019",
+        "kilometri": "11770 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "Honda cbr 125r",
+        "leto": "2008",
+        "kilometri": "41788 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.100 €"
+    },
+    {
+        "znamka": "Honda Cbf 1000 ",
+        "leto": "2010",
+        "kilometri": "78000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.200 €"
+    },
+    {
+        "znamka": "BMW R1200R",
+        "leto": "2008",
+        "kilometri": "56000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.600 €"
+    },
+    {
+        "znamka": "Honda cbr ",
+        "leto": "2004",
+        "kilometri": "59000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.499 €"
+    },
+    {
+        "znamka": "KTM EXC450",
+        "leto": "2012",
+        "kilometri": "500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Husqvarna SMR 450",
+        "leto": "2008",
+        "kilometri": "10 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.499 €"
+    },
+    {
+        "znamka": "Kawasaki Z900 ABS",
+        "leto": "2017",
+        "kilometri": "30200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.200 €"
+    },
+    {
+        "znamka": "KTM Sxf 450",
+        "leto": "2020",
+        "kilometri": "115 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "Kawasaki GPX 500R",
+        "leto": "1988",
+        "kilometri": "33333 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "600 €"
+    },
+    {
+        "znamka": "Beta Evo 80",
+        "leto": "2018",
+        "kilometri": "100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "MotoGuzzi California 1100",
+        "leto": "2003",
+        "kilometri": "33200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "Honda Gold Wing 1500",
+        "leto": "1995",
+        "kilometri": "93000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.800 €"
+    },
+    {
+        "znamka": "Yamaha WR 125 R",
+        "leto": "2013",
+        "kilometri": "30500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Honda Cbf 125 ",
+        "leto": "2010",
+        "kilometri": "12400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.450 €"
+    },
+    {
+        "znamka": "Yamaha XJR",
+        "leto": "2013",
+        "kilometri": "14100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.250 €"
+    },
+    {
+        "znamka": "Yamaha MT 10",
+        "leto": "2017",
+        "kilometri": "40000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "8.600 €"
+    },
+    {
+        "znamka": "KTM Freeride e-xc ",
+        "leto": "2021",
+        "kilometri": "600 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "9.200 €"
+    },
+    {
+        "znamka": "Motobi ",
+        "leto": "2018",
+        "kilometri": "47 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.400 €"
+    },
+    {
+        "znamka": "Yamaha FAZER 600S",
+        "leto": "2003",
+        "kilometri": "31765 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.600 €"
+    },
+    {
+        "znamka": "BMW R1200GS LC",
+        "leto": "2015",
+        "kilometri": "51000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "12.450 €"
+    },
+    {
+        "znamka": "Triumph Street triple",
+        "leto": "2009",
+        "kilometri": "50000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.380 €"
+    },
+    {
+        "znamka": "BMW R1200 GS Adventure",
+        "leto": "2007",
+        "kilometri": "140358 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.200 €"
+    },
+    {
+        "znamka": "Suzuki DL 1000",
+        "leto": "2004",
+        "kilometri": "43000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Yamaha MT 03 SLO",
+        "leto": "2007",
+        "kilometri": "2819 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.690 €"
+    },
+    {
+        "znamka": "BMW R850R R 850 R",
+        "leto": "2004",
+        "kilometri": "106900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.750 €"
+    },
+    {
+        "znamka": "Kawasaki Kx 60",
+        "leto": "1997",
+        "kilometri": "1000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "850 €"
+    },
+    {
+        "znamka": "Honda CBR1000RR CBR 1000",
+        "leto": "2004",
+        "kilometri": "40910 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.990 €"
+    },
+    {
+        "znamka": "Ducati Multistrada 1200S",
+        "leto": "2013",
+        "kilometri": "18950 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.200 €"
+    },
+    {
+        "znamka": "Ducati Multistrada 1200S",
+        "leto": "2014",
+        "kilometri": "40970 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.990 €"
+    },
+    {
+        "znamka": "Aprilia TUONO V4 1100 RR",
+        "leto": "2016",
+        "kilometri": "34100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.790 €"
+    },
+    {
+        "znamka": "BMW S1000R S 1000 R",
+        "leto": "2014",
+        "kilometri": "23300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.500 €"
+    },
+    {
+        "znamka": "BMW S1000R S 1000 R",
+        "leto": "2014",
+        "kilometri": "33490 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.890 €"
+    },
+    {
+        "znamka": "BMW S1000RR S 1000RR M",
+        "leto": "2020",
+        "kilometri": "12250 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "20.300 €"
+    },
+    {
+        "znamka": "Honda CBR 1000 RR",
+        "leto": "2004",
+        "kilometri": "42000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.700 €"
+    },
+    {
+        "znamka": "Harley-Davidson VRSCDX VROD 1250 10TH ANNIVERSARY",
+        "leto": "2012",
+        "kilometri": "45100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "12.200 €"
+    },
+    {
+        "znamka": "Triumph Tiger Explorer 1200 XRX low",
+        "leto": "2016",
+        "kilometri": "47000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.500 €"
+    },
+    {
+        "znamka": "Honda Crf 250 r",
+        "leto": "2016",
+        "kilometri": "30 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.475 €"
+    },
+    {
+        "znamka": "Yamaha YZF 250 ELEKTRO STARTER ",
+        "leto": "2020",
+        "kilometri": "20 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.175 €"
+    },
+    {
+        "znamka": "MotoGuzzi Stelvio 1200 NTX 8V",
+        "leto": "2010",
+        "kilometri": "70000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.700 €"
+    },
+    {
+        "znamka": "Kawasaki kxf 450 ",
+        "leto": "2017",
+        "kilometri": "2 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.950 €"
+    },
+    {
+        "znamka": "KTM SXF 350 2020",
+        "leto": "2020",
+        "kilometri": "55 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.900 €"
+    },
+    {
+        "znamka": "Yamaha Tracer 900",
+        "leto": "2018",
+        "kilometri": "15000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.500 €"
+    },
+    {
+        "znamka": "Ducati Multistrada 950",
+        "leto": "2017",
+        "kilometri": "5905 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.950 €"
+    },
+    {
+        "znamka": "Kawasaki Z1000 ABS Limited Edition",
+        "leto": "2008",
+        "kilometri": "75000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "BMW 1200gs",
+        "leto": "2017",
+        "kilometri": "54200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "14.100 €"
+    },
+    {
+        "znamka": "Honda Dominator 250",
+        "leto": "2000",
+        "kilometri": "10000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.950 €"
+    },
+    {
+        "znamka": "KTM Exc 450",
+        "leto": "2011",
+        "kilometri": "5000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.290 €"
+    },
+    {
+        "znamka": "Honda CB600F HORNET CB 600 F",
+        "leto": "2005",
+        "kilometri": "55200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "Kawasaki ninja 636",
+        "leto": "2006",
+        "kilometri": "60000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "Triumph TIGER 1200 XCX",
+        "leto": "2019",
+        "kilometri": "9100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "15.990 €"
+    },
+    {
+        "znamka": "Husqvarna Tc 85",
+        "leto": "2015",
+        "kilometri": "34 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.600 €"
+    },
+    {
+        "znamka": "BMW F800R ABS ESA TC F 800 R",
+        "leto": "2015",
+        "kilometri": "33100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.990 €"
+    },
+    {
+        "znamka": "Suzuki SV 650",
+        "leto": "2003",
+        "kilometri": "69000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.300 €"
+    },
+    {
+        "znamka": "Suzuki 250",
+        "leto": "2018",
+        "kilometri": "15 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.900 €"
+    },
+    {
+        "znamka": "Yamaha MT O3",
+        "leto": "2007",
+        "kilometri": "13000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "BMW R1200RT R 1200 RT",
+        "leto": "2008",
+        "kilometri": "71109 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.500 €"
+    },
+    {
+        "znamka": "Honda CMX 500A REBEL S",
+        "leto": "2021",
+        "kilometri": "3600 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.150 €"
+    },
+    {
+        "znamka": "BMW K 1600 GTL",
+        "leto": "2014",
+        "kilometri": "54000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "17.900 €"
+    },
+    {
+        "znamka": "Suzuki vstrom",
+        "leto": "2007",
+        "kilometri": "64939 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Honda Varadero XL1000V",
+        "leto": "2005",
+        "kilometri": "88130 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "Honda XL 1000 VARADERO + GARANCIJA  VARADERO1000",
+        "leto": "2005",
+        "kilometri": "52000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.790 €"
+    },
+    {
+        "znamka": "Honda NC 700 SA ZELO DOBRO OHRANJEN NC700SA",
+        "leto": "2013",
+        "kilometri": "33000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.890 €"
+    },
+    {
+        "znamka": "Honda CBR 600 F ZELO DOBRO OHRANJEN CBR 600F",
+        "leto": "2011",
+        "kilometri": "25000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.490 €"
+    },
+    {
+        "znamka": "BMW R 1250 RT",
+        "leto": "2021",
+        "kilometri": "1222 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "22.990 €"
+    },
+    {
+        "znamka": "Yamaha ",
+        "leto": "2004",
+        "kilometri": "50000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "Honda CBF 600 S  CBF600S",
+        "leto": "2010",
+        "kilometri": "34000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.190 €"
+    },
+    {
+        "znamka": "BMW F 900 R",
+        "leto": "2020",
+        "kilometri": "7625 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "9.300 €"
+    },
+    {
+        "znamka": "Honda CBF1000A ABS CBF 1000 A",
+        "leto": "2008",
+        "kilometri": "96700 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.990 €"
+    },
+    {
+        "znamka": "BMW R 25 2",
+        "leto": "1952",
+        "kilometri": "50000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.800 €"
+    },
+    {
+        "znamka": "Yamaha Yz 125",
+        "leto": "2008",
+        "kilometri": "35 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.400 €"
+    },
+    {
+        "znamka": "NSU 350 osl",
+        "leto": "1940",
+        "kilometri": "100000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.700 €"
+    },
+    {
+        "znamka": "Suzuki GS 550 KATANA",
+        "leto": "1982",
+        "kilometri": "55000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.000 €"
+    },
+    {
+        "znamka": "Aprilia RSV 1000 TUONO CARBON BREMBO",
+        "leto": "2003",
+        "kilometri": "49989 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.490 €"
+    },
+    {
+        "znamka": "Honda ",
+        "leto": "2007",
+        "kilometri": "31000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Suzuki SFV 650 GLADIUS LEP motor SV",
+        "leto": "2013",
+        "kilometri": "37321 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.490 €"
+    },
+    {
+        "znamka": "Honda Shadow ",
+        "leto": "1997",
+        "kilometri": "100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.000 €"
+    },
+    {
+        "znamka": "Yamaha FZ8N",
+        "leto": "2014",
+        "kilometri": "29000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.700 €"
+    },
+    {
+        "znamka": "KTM Duke890-BREZ PRASKE-KOT NOV",
+        "leto": "2021",
+        "kilometri": "8000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.450 €"
+    },
+    {
+        "znamka": "BMW Gs rally",
+        "leto": "2017",
+        "kilometri": "27800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "16.000 €"
+    },
+    {
+        "znamka": "Honda cbr1000rr",
+        "leto": "2006",
+        "kilometri": "47000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.300 €"
+    },
+    {
+        "znamka": "KTM EXC 450",
+        "leto": "2012",
+        "kilometri": "200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.200 €"
+    },
+    {
+        "znamka": "Triumph Speed Twin 1200",
+        "leto": "2019",
+        "kilometri": "7500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Honda Hornet",
+        "leto": "2003",
+        "kilometri": "48000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "Honda CBF 1000",
+        "leto": "2006",
+        "kilometri": "74800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.950 €"
+    },
+    {
+        "znamka": "BMW R 1200 s",
+        "leto": "2006",
+        "kilometri": "33800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.600 €"
+    },
+    {
+        "znamka": "BMW G 310 R",
+        "leto": "2021",
+        "kilometri": "3358 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "14.700 €"
+    },
+    {
+        "znamka": "BMW R 1250 GS Rallye ",
+        "leto": "2021",
+        "kilometri": "6479 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "19.900 €"
+    },
+    {
+        "znamka": "Ducati Multistrada",
+        "leto": "2014",
+        "kilometri": "35200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "9.900 €"
+    },
+    {
+        "znamka": "BMW F800S",
+        "leto": "2010",
+        "kilometri": "32908 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "Suzuki GSF1250SA BANDIT S GSF 1250 S",
+        "leto": "2007",
+        "kilometri": "62200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.350 €"
+    },
+    {
+        "znamka": "KTM SXF250",
+        "leto": "2014",
+        "kilometri": "60 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "BMW BMW R1200 GS -BLACK EDITION-1.LASTNIK-TOP",
+        "leto": "2014",
+        "kilometri": "79847 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.999 €"
+    },
+    {
+        "znamka": "Triumph Tiger explorer ",
+        "leto": "2013",
+        "kilometri": "125000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.999 €"
+    },
+    {
+        "znamka": "BMW R nineT Scrambler",
+        "leto": "2021",
+        "kilometri": "5415 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "12.990 €"
+    },
+    {
+        "znamka": "Triumph Stret Triple 675",
+        "leto": "2008",
+        "kilometri": "25581 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.399 €"
+    },
+    {
+        "znamka": "Kawasaki KXF 450",
+        "leto": "2018",
+        "kilometri": "30 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "BMW R nineT Urban G S 40",
+        "leto": "2021",
+        "kilometri": "4247 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "15.700 €"
+    },
+    {
+        "znamka": "BMW R 1100 s",
+        "leto": "2001",
+        "kilometri": "78000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.800 €"
+    },
+    {
+        "znamka": "Yamaha Fz6s fazer",
+        "leto": "2005",
+        "kilometri": "35000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "Yamaha mt 10 ",
+        "leto": "2016",
+        "kilometri": "25084 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "8.900 €"
+    },
+    {
+        "znamka": "MZ ETZ250",
+        "leto": "2021",
+        "kilometri": "97 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.000 €"
+    },
+    {
+        "znamka": "MV Agusta F4 ",
+        "leto": "2011",
+        "kilometri": "19400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "10.000 €"
+    },
+    {
+        "znamka": "BMW R 1200 R",
+        "leto": "2018",
+        "kilometri": "26100 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "9.950 €"
+    },
+    {
+        "znamka": "Honda VFR 800 X Crossrunner",
+        "leto": "2013",
+        "kilometri": "34269 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.760 €"
+    },
+    {
+        "znamka": "KTM Exc 250",
+        "leto": "2009",
+        "kilometri": "300 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.400 €"
+    },
+    {
+        "znamka": "Triumph TIGER 800",
+        "leto": "2011",
+        "kilometri": "37450 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.450 €"
+    },
+    {
+        "znamka": "Yamaha FZ6-N",
+        "leto": "2007",
+        "kilometri": "37490 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Honda GL 1800A Confort",
+        "leto": "2008",
+        "kilometri": "143100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "15.200 €"
+    },
+    {
+        "znamka": "Suzuki Gsx110",
+        "leto": "1981",
+        "kilometri": "45000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.200 €"
+    },
+    {
+        "znamka": "BMW R 1250 RT",
+        "leto": "2020",
+        "kilometri": "12000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "22.000 €"
+    },
+    {
+        "znamka": "KTM duke II 640 LC4",
+        "leto": "2002",
+        "kilometri": "35900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.290 €"
+    },
+    {
+        "znamka": "Yamaha YZF-R1",
+        "leto": "2003",
+        "kilometri": "57000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.000 €"
+    },
+    {
+        "znamka": "Husqvarna Fc 450",
+        "leto": "2020",
+        "kilometri": "156000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.000 €"
+    },
+    {
+        "znamka": "BMW R1200R",
+        "leto": "2008",
+        "kilometri": "90000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.790 €"
+    },
+    {
+        "znamka": "Honda deauvile",
+        "leto": "2009",
+        "kilometri": "28000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.600 €"
+    },
+    {
+        "znamka": "Kawasaki Z750",
+        "leto": "2022",
+        "kilometri": "3900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "CPI Sx",
+        "leto": "2009",
+        "kilometri": "48758 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "9.490 €"
+    },
+    {
+        "znamka": "KTM SXF250",
+        "leto": "2021",
+        "kilometri": "71 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.800 €"
+    },
+    {
+        "znamka": "Kawasaki Kxf 250",
+        "leto": "2019",
+        "kilometri": "60 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.900 €"
+    },
+    {
+        "znamka": "BMW rt 1200 lc",
+        "leto": "2014",
+        "kilometri": "86000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "12.390 €"
+    },
+    {
+        "znamka": "Husqvarna Tc50",
+        "leto": "2020",
+        "kilometri": "80 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "2.650 €"
+    },
+    {
+        "znamka": "Kawasaki Z650",
+        "leto": "2017",
+        "kilometri": "35052 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.200 €"
+    },
+    {
+        "znamka": "Yamaha YZF 450 EL ZAGANJAČ",
+        "leto": "2018",
+        "kilometri": "19661 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "Aprilia aprilia rs50",
+        "leto": "2008",
+        "kilometri": "8500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.299 €"
+    },
+    {
+        "znamka": "Yamaha R6",
+        "leto": "2005",
+        "kilometri": "78 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "Suzuki SV 650",
+        "leto": "1999",
+        "kilometri": "23000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.100 €"
+    },
+    {
+        "znamka": "KTM 250 SXF",
+        "leto": "2021",
+        "kilometri": "55 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.300 €"
+    },
+    {
+        "znamka": "Honda ST1300 ABS CBS PAN EUROPEAN ST1300",
+        "leto": "2005",
+        "kilometri": "59978 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.790 €"
+    },
+    {
+        "znamka": "Yamaha Yz 65",
+        "leto": "2019",
+        "kilometri": "105 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "Kawasaki VN 1700 VOYAGER ABS",
+        "leto": "2012",
+        "kilometri": "47210 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "15.600 €"
+    },
+    {
+        "znamka": "Husqvarna TE 450",
+        "leto": "2011",
+        "kilometri": "4200 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.499 €"
+    },
+    {
+        "znamka": "Kawasaki NINJA 650 ABS",
+        "leto": "2018",
+        "kilometri": "6720 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.290 €"
+    },
+    {
+        "znamka": "KTM Sxf 250",
+        "leto": "2009",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.150 €"
+    },
+    {
+        "znamka": "Yamaha YZF 250 -2020 1.lastnik",
+        "leto": "2020",
+        "kilometri": "84 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.990 €"
+    },
+    {
+        "znamka": "Yamaha Yz250f",
+        "leto": "2017",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.900 €"
+    },
+    {
+        "znamka": "Husqvarna Tc 300",
+        "leto": "2016",
+        "kilometri": "5 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "KTM Sxf 450",
+        "leto": "2012",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.900 €"
+    },
+    {
+        "znamka": "Husqvarna 50",
+        "leto": "2020",
+        "kilometri": "78 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "KTM Sx-f 250",
+        "leto": "2019",
+        "kilometri": "99 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.590 €"
+    },
+    {
+        "znamka": "BMW R1200RT",
+        "leto": "2011",
+        "kilometri": "79800 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.000 €"
+    },
+    {
+        "znamka": "BMW F 650 CS ",
+        "leto": "2003",
+        "kilometri": "59700 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.890 €"
+    },
+    {
+        "znamka": "MotoGuzzi Lodola175 sport",
+        "leto": "2017",
+        "kilometri": "10 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.800 €"
+    },
+    {
+        "znamka": "BMW R 1150 R",
+        "leto": "2005",
+        "kilometri": "56000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.400 €"
+    },
+    {
+        "znamka": "Honda CBF 1000 A ABS SLO 3x kovčki meglenke cbf1000a",
+        "leto": "2008",
+        "kilometri": "76895 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.690 €"
+    },
+    {
+        "znamka": "GasGas Vertigo R3 250",
+        "leto": "2021",
+        "kilometri": "16 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.200 €"
+    },
+    {
+        "znamka": "Daelim VL125",
+        "leto": "2003",
+        "kilometri": "25060 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.200 €"
+    },
+    {
+        "znamka": "Honda ",
+        "leto": "2021",
+        "kilometri": "15 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "1.200 €"
+    },
+    {
+        "znamka": "KTM ",
+        "leto": "2004",
+        "kilometri": "17750 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.980 €"
+    },
+    {
+        "znamka": "Honda CBR 600RR",
+        "leto": "2003",
+        "kilometri": "63876 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Aprilia Mana 850",
+        "leto": "2010",
+        "kilometri": "34000 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "BMW F800GS",
+        "leto": "2016",
+        "kilometri": "26399 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.300 €"
+    },
+    {
+        "znamka": "BMW R1200GS",
+        "leto": "2005",
+        "kilometri": "84000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "Honda CBF1000 ST ABS CBF 1000 ST",
+        "leto": "2010",
+        "kilometri": "76600 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.990 €"
+    },
+    {
+        "znamka": "Honda Vfr 1200 f DTC",
+        "leto": "2016",
+        "kilometri": "26700 km",
+        "menjalnik": "avtomatski menjalnik",
+        "cena": "8.900 €"
+    },
+    {
+        "znamka": "Yamaha XSR900 XSR 900 ANNIVERSARY",
+        "leto": "2016",
+        "kilometri": "35130 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.990 €"
+    },
+    {
+        "znamka": "BMW S1000rr",
+        "leto": "2011",
+        "kilometri": "3500 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.750 €"
+    },
+    {
+        "znamka": "Honda CBF",
+        "leto": "2010",
+        "kilometri": "3642 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.900 €"
+    },
+    {
+        "znamka": "Honda cb1000 Ra",
+        "leto": "2010",
+        "kilometri": "57700 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.900 €"
+    },
+    {
+        "znamka": "MOTO Danuvia 125",
+        "leto": "1959",
+        "kilometri": "18000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "BMW F 650 CS",
+        "leto": "2002",
+        "kilometri": "55000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.400 €"
+    },
+    {
+        "znamka": "Honda Xl700v",
+        "leto": "2008",
+        "kilometri": "65338 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "KTM 1190 adventure",
+        "leto": "2016",
+        "kilometri": "40000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "13.000 €"
+    },
+    {
+        "znamka": "Suzuki RMZ 450 Supermoto",
+        "leto": "2014",
+        "kilometri": "30 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "BMW R1200RT",
+        "leto": "2012",
+        "kilometri": "50500 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "10.200 €"
+    },
+    {
+        "znamka": "Honda CRF 450",
+        "leto": "2021",
+        "kilometri": "30 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.900 €"
+    },
+    {
+        "znamka": "Honda CBF 1000 ABS",
+        "leto": "2008",
+        "kilometri": "73000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "BMW K 1200 S",
+        "leto": "2005",
+        "kilometri": "115000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.400 €"
+    },
+    {
+        "znamka": "Kawasaki Kxf 250",
+        "leto": "2017",
+        "kilometri": "180 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Triumph tiger explorer 1200",
+        "leto": "2013",
+        "kilometri": "32000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.360 €"
+    },
+    {
+        "znamka": "Yamaha YZF-R125",
+        "leto": "2008",
+        "kilometri": "27447 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.499 €"
+    },
+    {
+        "znamka": "Yamaha Tracer 900",
+        "leto": "2016",
+        "kilometri": "24284 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.100 €"
+    },
+    {
+        "znamka": "Yamaha Dragstar XVS 650",
+        "leto": "1997",
+        "kilometri": "95000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "Yamaha FAZER 600",
+        "leto": "2004",
+        "kilometri": "69197 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "Honda deauville",
+        "leto": "2002",
+        "kilometri": "70000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "MOTO Jonway - Cruiser",
+        "leto": "2011",
+        "kilometri": "2700 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "850 €"
+    },
+    {
+        "znamka": "KTM sx65",
+        "leto": "2018",
+        "kilometri": "200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Suzuki GSX 650 FA slovenski. KOT NOV.SAMO 14000",
+        "leto": "2012",
+        "kilometri": "14000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.590 €"
+    },
+    {
+        "znamka": "Kinroad XT50Q",
+        "leto": "2010",
+        "kilometri": "86990 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "KTM Exc",
+        "leto": "2011",
+        "kilometri": "185 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "BMW K1300s",
+        "leto": "2009",
+        "kilometri": "68200 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.150 €"
+    },
+    {
+        "znamka": "KTM Xcf 250",
+        "leto": "2014",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "Kawasaki ER650C- ER-6N",
+        "leto": "2009",
+        "kilometri": "21400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "Yamaha Dragstar  XVS 1100 Classic",
+        "leto": "2006",
+        "kilometri": "76000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.100 €"
+    },
+    {
+        "znamka": "KTM Exc 350-f",
+        "leto": "2015",
+        "kilometri": "15 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.150 €"
+    },
+    {
+        "znamka": "KTM SX-250",
+        "leto": "2018",
+        "kilometri": "65 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.450 €"
+    },
+    {
+        "znamka": "MV Agusta Stradale",
+        "leto": "2016",
+        "kilometri": "12300 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.990 €"
+    },
+    {
+        "znamka": "Yamaha YZF450",
+        "leto": "2019",
+        "kilometri": "104 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "Suzuki Gsx-r 750",
+        "leto": "2013",
+        "kilometri": "32000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.300 €"
+    },
+    {
+        "znamka": "KTM Duke2 lc4",
+        "leto": "2003",
+        "kilometri": "19800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.991 €"
+    },
+    {
+        "znamka": "KTM Exc-f",
+        "leto": "2016",
+        "kilometri": "1 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.990 €"
+    },
+    {
+        "znamka": "BMW gs 1200",
+        "leto": "2006",
+        "kilometri": "104000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.400 €"
+    },
+    {
+        "znamka": "BMW F 650 CS SCARVER",
+        "leto": "2003",
+        "kilometri": "42000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.600 €"
+    },
+    {
+        "znamka": "BMW BMW R 1200 RT SLO-vsa oprema",
+        "leto": "2018",
+        "kilometri": "30500 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "17.300 €"
+    },
+    {
+        "znamka": "Yamaha Diversion xj 900",
+        "leto": "1997",
+        "kilometri": "155000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.990 €"
+    },
+    {
+        "znamka": "Aprilia Tuono",
+        "leto": "2004",
+        "kilometri": "52134 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.700 €"
+    },
+    {
+        "znamka": "Harley-Davidson softail delux chicano style",
+        "leto": "2008",
+        "kilometri": "24000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "Pokličite za ceno!"
+    },
+    {
+        "znamka": "Yamaha xj6n",
+        "leto": "2010",
+        "kilometri": "24000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "Suzuki Gsxr 1000 ",
+        "leto": "2005",
+        "kilometri": "63000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.300 €"
+    },
+    {
+        "znamka": "Yamaha Yz450f",
+        "leto": "2021",
+        "kilometri": "25 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.900 €"
+    },
+    {
+        "znamka": "Yamaha YZ 450F",
+        "leto": "2018",
+        "kilometri": "130 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.950 €"
+    },
+    {
+        "znamka": "Yamaha YZF 450",
+        "leto": "2005",
+        "kilometri": "10 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.990 €"
+    },
+    {
+        "znamka": "Suzuki Rmz 450",
+        "leto": "2018",
+        "kilometri": "170 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.500 €"
+    },
+    {
+        "znamka": "Yamaha ybr 125",
+        "leto": "2008",
+        "kilometri": "22446 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.000 €"
+    },
+    {
+        "znamka": "Honda CBF 1000 ABS DOBRO OHRANJENA + GARANCIJA CBF1000",
+        "leto": "2007",
+        "kilometri": "44000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "4.190 €"
+    },
+    {
+        "znamka": "Yamaha MT-07",
+        "leto": "2016",
+        "kilometri": "30500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.600 €"
+    },
+    {
+        "znamka": "Honda CBR 600RR 2008",
+        "leto": "2007",
+        "kilometri": "39900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "BMW K1600GT K 1600 GT",
+        "leto": "2011",
+        "kilometri": "93708 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.990 €"
+    },
+    {
+        "znamka": "Harley-Davidson Fat Bob",
+        "leto": "2010",
+        "kilometri": "64900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "13.200 €"
+    },
+    {
+        "znamka": "BMW R1200GS ADVENTURE R 1200 GSA",
+        "leto": "2014",
+        "kilometri": "55158 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "13.990 €"
+    },
+    {
+        "znamka": "Honda CBF 600 S",
+        "leto": "2006",
+        "kilometri": "55000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "BMW R1200GS ADVENTURE R 1200 GSA",
+        "leto": "2014",
+        "kilometri": "98481 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "11.890 €"
+    },
+    {
+        "znamka": "Yamaha Mt10",
+        "leto": "2020",
+        "kilometri": "11500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "12.490 €"
+    },
+    {
+        "znamka": "Aprilia Tuono V4 Factory",
+        "leto": "2021",
+        "kilometri": "2500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "17.990 €"
+    },
+    {
+        "znamka": "KTM ",
+        "leto": "2020",
+        "kilometri": "84 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.300 €"
+    },
+    {
+        "znamka": "Yamaha super tenere 1200z",
+        "leto": "2015",
+        "kilometri": "67000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "9.500 €"
+    },
+    {
+        "znamka": "Yamaha MT09 ABS - odlična Menjam za XSR",
+        "leto": "2013",
+        "kilometri": "47850 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.590 €"
+    },
+    {
+        "znamka": "KTM Sx 65",
+        "leto": "2017",
+        "kilometri": "100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.500 €"
+    },
+    {
+        "znamka": "Aprilia SX 50",
+        "leto": "2020",
+        "kilometri": "2800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.590 €"
+    },
+    {
+        "znamka": "Honda CBF 600 N zelo lep cbf600n",
+        "leto": "2008",
+        "kilometri": "36032 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.790 €"
+    },
+    {
+        "znamka": "Honda CRF250R",
+        "leto": "2011",
+        "kilometri": "30000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "15.990 €"
+    },
+    {
+        "znamka": "BMW F800GS",
+        "leto": "2010",
+        "kilometri": "54000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.300 €"
+    },
+    {
+        "znamka": "BMW S1000RR 2020 S 1000 RR",
+        "leto": "2020",
+        "kilometri": "7000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "19.980 €"
+    },
+    {
+        "znamka": "BMW K 1600 GT",
+        "leto": "2014",
+        "kilometri": "65000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "15.200 €"
+    },
+    {
+        "znamka": "Yamaha FZ6-S",
+        "leto": "2006",
+        "kilometri": "47000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.200 €"
+    },
+    {
+        "znamka": "Ducati MONSTER 821 M18Facelift",
+        "leto": "2018",
+        "kilometri": "18600 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.880 €"
+    },
+    {
+        "znamka": "KTM 200 SX",
+        "leto": "2007",
+        "kilometri": "150 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.700 €"
+    },
+    {
+        "znamka": "BMW R 850 rt",
+        "leto": "2001",
+        "kilometri": "95000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "BMW R1200rt",
+        "leto": "2016",
+        "kilometri": "37000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "13.990 €"
+    },
+    {
+        "znamka": "Kawasaki Z 900 ABS ",
+        "leto": "2018",
+        "kilometri": "5800 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.450 €"
+    },
+    {
+        "znamka": "Honda crf 450R",
+        "leto": "2007",
+        "kilometri": "46 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.800 €"
+    },
+    {
+        "znamka": "KTM 1290 Super Duke",
+        "leto": "2018",
+        "kilometri": "31500 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "12.290 €"
+    },
+    {
+        "znamka": "Husaberg fe 570 ",
+        "leto": "2010",
+        "kilometri": "120 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.000 €"
+    },
+    {
+        "znamka": "Honda Cbr 1000rr ",
+        "leto": "2007",
+        "kilometri": "59170 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "BMW R1200 gs adventure",
+        "leto": "2015",
+        "kilometri": "62000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "14.700 €"
+    },
+    {
+        "znamka": "Husaberg fe 570 ",
+        "leto": "2010",
+        "kilometri": "120 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.000 €"
+    },
+    {
+        "znamka": "Aprilia Rs 125",
+        "leto": "2007",
+        "kilometri": "39000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.100 €"
+    },
+    {
+        "znamka": "KTM EXC 300",
+        "leto": "2019",
+        "kilometri": "52 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "7.200 €"
+    },
+    {
+        "znamka": "Harley-Davidson XL 883N IRON- LE 20.000KM- ODLIČEN-KREDIT BREZ POL",
+        "leto": "2021",
+        "kilometri": "20000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "8.500 €"
+    },
+    {
+        "znamka": "BMW S 1000 RR S1000RR",
+        "leto": "2016",
+        "kilometri": "22607 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "14.490 €"
+    },
+    {
+        "znamka": "Yamaha Yz 85",
+        "leto": "2007",
+        "kilometri": "19000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "1.750 €"
+    },
+    {
+        "znamka": "Yamaha Yz 250f",
+        "leto": "2013",
+        "kilometri": "42900 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.200 €"
+    },
+    {
+        "znamka": "Honda CRF250R",
+        "leto": "2011",
+        "kilometri": "1 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.250 €"
+    },
+    {
+        "znamka": "BMW F650 GS",
+        "leto": "2004",
+        "kilometri": "22500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "BMW R1250GS TRIPLE BLACK R 1250 GS",
+        "leto": "2021",
+        "kilometri": "2700 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "20.500 €"
+    },
+    {
+        "znamka": "KTM 620 LC4 EGS-E Adventure",
+        "leto": "1997",
+        "kilometri": "32000 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "2.300 €"
+    },
+    {
+        "znamka": "BMW F650GS ABS F 650 GS",
+        "leto": "2006",
+        "kilometri": "18100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "KTM 690",
+        "leto": "2009",
+        "kilometri": "41770 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.490 €"
+    },
+    {
+        "znamka": "Kawasaki Z1000",
+        "leto": "2007",
+        "kilometri": "42000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.700 €"
+    },
+    {
+        "znamka": "Kawasaki Vulcan 900 Classic LT",
+        "leto": "2012",
+        "kilometri": "14000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.200 €"
+    },
+    {
+        "znamka": "Yamaha FZR1000",
+        "leto": "1990",
+        "kilometri": "60000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.990 €"
+    },
+    {
+        "znamka": "BMW R1200RT",
+        "leto": "2005",
+        "kilometri": "55000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.800 €"
+    },
+    {
+        "znamka": "Ducati 959 Panigale - financiranje",
+        "leto": "2018",
+        "kilometri": "30500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "12.580 €"
+    },
+    {
+        "znamka": "Yamaha MT 07",
+        "leto": "2021",
+        "kilometri": "3100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.300 €"
+    },
+    {
+        "znamka": "KTM ADVENTURE 390 - 1.lastnik",
+        "leto": "2021",
+        "kilometri": "1600 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "BMW K1200S",
+        "leto": "2005",
+        "kilometri": "34000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.500 €"
+    },
+    {
+        "znamka": "KTM Exc-f 250",
+        "leto": "2017",
+        "kilometri": "3 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.500 €"
+    },
+    {
+        "znamka": "BMW 1150RT",
+        "leto": "2002",
+        "kilometri": "120000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.000 €"
+    },
+    {
+        "znamka": "BMW K 1200 LT",
+        "leto": "2007",
+        "kilometri": "101000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "7.400 €"
+    },
+    {
+        "znamka": "Honda deauville",
+        "leto": "2007",
+        "kilometri": "48000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.000 €"
+    },
+    {
+        "znamka": "Kawasaki z1000",
+        "leto": "2008",
+        "kilometri": "28020 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.099 €"
+    },
+    {
+        "znamka": "Yamaha FZ8S ",
+        "leto": "2014",
+        "kilometri": "17050 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "6.150 €"
+    },
+    {
+        "znamka": "GasGas txt280",
+        "leto": "2012",
+        "kilometri": "13100 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.585 €"
+    },
+    {
+        "znamka": "Ducati V4 SPECIALE - financiranje",
+        "leto": "2018",
+        "kilometri": "2780 km",
+        "menjalnik": "polavtomatski menjalnik",
+        "cena": "34.890 €"
+    },
+    {
+        "znamka": "Honda nc750xa RC901-3",
+        "leto": "2019",
+        "kilometri": "18726 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.600 €"
+    },
+    {
+        "znamka": "Suzuki V STROM 1000 XT",
+        "leto": "2017",
+        "kilometri": "18000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "9.290 €"
+    },
+    {
+        "znamka": "MotoGuzzi V7 SPECIAL STORNELLO KIT",
+        "leto": "2015",
+        "kilometri": "29970 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.400 €"
+    },
+    {
+        "znamka": "BMW R 1200 R R1200R",
+        "leto": "2007",
+        "kilometri": "113823 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.990 €"
+    },
+    {
+        "znamka": "Harley-Davidson Heritage Softail Classic",
+        "leto": "2016",
+        "kilometri": "23350 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "19.000 €"
+    },
+    {
+        "znamka": "Kawasaki z750",
+        "leto": "2012",
+        "kilometri": "26687 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.900 €"
+    },
+    {
+        "znamka": "Yamaha FZS 1000 fazer",
+        "leto": "2004",
+        "kilometri": "56000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.100 €"
+    },
+    {
+        "znamka": "Yamaha MT-07 MT07 ",
+        "leto": "2014",
+        "kilometri": "28400 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.600 €"
+    },
+    {
+        "znamka": "Yamaha ",
+        "leto": "1991",
+        "kilometri": "10000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "600 €"
+    },
+    {
+        "znamka": "Husqvarna tc 125",
+        "leto": "2021",
+        "kilometri": "2 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "6.000 €"
+    },
+    {
+        "znamka": "Triumph sprint RS 955i",
+        "leto": "2000",
+        "kilometri": "56000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.800 €"
+    },
+    {
+        "znamka": "Yamaha FZ1S",
+        "leto": "2009",
+        "kilometri": "40000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "5.000 €"
+    },
+    {
+        "znamka": "Honda GL 1800",
+        "leto": "2011",
+        "kilometri": "108000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "15.990 €"
+    },
+    {
+        "znamka": "BMW R1200GS",
+        "leto": "2015",
+        "kilometri": "63000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "11.700 €"
+    },
+    {
+        "znamka": "Kawasaki kx 125",
+        "leto": "1993",
+        "kilometri": "50500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "8.600 €"
+    },
+    {
+        "znamka": "KTM sxf450",
+        "leto": "2016",
+        "kilometri": "2016 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "3.580 €"
+    },
+    {
+        "znamka": "Kawasaki KMX 125",
+        "leto": "1992",
+        "kilometri": "23000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.400 €"
+    },
+    {
+        "znamka": "BMW F800 ST",
+        "leto": "2010",
+        "kilometri": "59000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.100 €"
+    },
+    {
+        "znamka": "Yamaha Fz6",
+        "leto": "2006",
+        "kilometri": "81206 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "2.600 €"
+    },
+    {
+        "znamka": "Honda Varadero",
+        "leto": "2005",
+        "kilometri": "41686 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "4.200 €"
+    },
+    {
+        "znamka": "Suzuki GSR 600",
+        "leto": "2007",
+        "kilometri": "21000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "4.000 €"
+    },
+    {
+        "znamka": "Suzuki RMZ 250",
+        "leto": "2016",
+        "kilometri": "10 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.300 €"
+    },
+    {
+        "znamka": "Honda Varadero",
+        "leto": "2004",
+        "kilometri": "82000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.650 €"
+    },
+    {
+        "znamka": "KTM Duke 690",
+        "leto": "2009",
+        "kilometri": "16631 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "3.750 €"
+    },
+    {
+        "znamka": "Suzuki RF 600 R",
+        "leto": "1995",
+        "kilometri": "50000 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "750 €"
+    },
+    {
+        "znamka": "KTM SX 50 f",
+        "leto": "2017",
+        "kilometri": "90 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.600 €"
+    },
+    {
+        "znamka": "Honda cbr125r",
+        "leto": "2007",
+        "kilometri": "24500 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "1.000 €"
+    },
+    {
+        "znamka": "Suzuki SV650S A2",
+        "leto": "2007",
+        "kilometri": "47000 km",
+        "menjalnik": "nožni menjalnik",
+        "cena": "2.350 €"
+    },
+    {
+        "znamka": "Honda CRF 450",
+        "leto": "2021",
+        "kilometri": "55 km",
+        "menjalnik": "ročni menjalnik",
+        "cena": "5.700 €"
     }
 ]
